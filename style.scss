@@ -424,7 +424,7 @@ body{
 	margin:3rem 0 0 0;
 }
 .header-section .overlay{
-	padding:20rem 0;
+	padding:15rem 0;
 	max-width: 1600px;
 	margin: auto;
 }
@@ -443,7 +443,7 @@ body{
 	padding: 10px;
 	margin: 3rem 0px;
 	font-size: 32px;
-	color: dodgerblue;
+	color: #4c86fa;
 	background: #fff;
 }
 .header-texts h1{
@@ -1045,7 +1045,8 @@ body{
 		font-size: 30px;
 	}
 	.header-section .overlay{
-		padding:130px 0;
+		padding:1rem 0;
+		text-align:center;
 	}
 	.header-texts h1 {
 		font-size: 45px;
@@ -1097,5 +1098,5 @@ body{
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
-@import "svg-icons";
+//@import "highlights";
+//@import "svg-icons";
