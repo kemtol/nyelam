@@ -580,12 +580,12 @@ body{
 }
 
 .offer-texts{
-	padding:50px 0 0 20px;
+	padding:10rem 0 0 20px;
 }
 .offer-texts h6{
 	text-transform:uppercase;
 	color:#fff;
-	background:#4c86fa;
+	background:forestgreen;
 	padding:3px 15px;
 	display:inline-block;
 	margin-bottom:14px;
@@ -614,7 +614,9 @@ body{
 	font-weight:normal;
 	margin-right:7px;
 }
-
+.offer-texts.button.sm{
+	background:forestgreen;
+}
 
 /*.spe-offer-section*/
 
