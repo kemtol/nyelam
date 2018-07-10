@@ -490,7 +490,7 @@ body{
 }
 
 #hotdeal{
-	padding-bottom:25rem;
+	padding-bottom:30rem;
 }
 
 .single-deal{
@@ -566,7 +566,7 @@ body{
 
 .offer-section{
 	padding:130px 0;
-	padding-top:25rem;
+	padding-top:30rem;
 }
 .offer-image{
 	position:relative;
@@ -623,12 +623,28 @@ body{
 	background:forestgreen;
 }
 
+
+
 /*.spe-offer-section*/
 
 .spe-offer-section{
 	background:url(images/bg/offer.jpg) center center;
 	background-size:cover;
 }
+
+.download-box{
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 0;
+	left: 50%;
+	width: 1024px;
+	max-width:100%;
+	
+	img{
+		width:100%;
+	}
+}
+
 .spe-offer-section .overlay{
 	padding:175px 0;
 }
@@ -813,6 +829,7 @@ body{
 
 .faq-section{
 	padding-bottom:87px;
+	background:#edf3ff;
 }
 .single-faq{
 	padding-right:50px;
