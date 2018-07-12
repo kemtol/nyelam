@@ -19,16 +19,18 @@
 
   <body>
 	{% include navigation.html %}
+    	
+	{% if page.is_post == true %}
+		{% include header.html %}
 
-	{% include header.html %}
+		{% include landing.html %}
 
-	{% include landing.html %}
+		{% include testimonials.html %}
 
-	{% include testimonials.html %}
+		{% include partners.html %}
 
-	{% include partners.html %}
-
-	{% include faq.html %}
+		{% include faq.html %}
+	{% endif %}
 
 	{{ content }} 
 	  
