@@ -4,6 +4,7 @@ title: Best Scuba Diving Spots in Indonesia
 permalink: /best-scuba-diving-spots-in-indonesia.html
 ---
 
+
 It is clear that Indonesia has the best places to dive compared to any other countries in the world. Indonesia is split into two separate parts by the Wallace Line lied between Borneo and Sulawesi, and down through the Lombok Strait. That is why the country has enormous amount of endemic species. Furthermore, Indonesia sits in the heart of Coral Triangle which is recognized as global epicentre of marine biodiversity and home to 76 percent of the world’s known coral species.
 
 ## 1. Bunaken and Siladen , North Sulawesi
