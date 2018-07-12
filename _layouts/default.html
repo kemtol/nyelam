@@ -3,11 +3,9 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-    {% include meta.html %}
+	{% include meta.html %}
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+	<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
         
 	<!-- Custom styles for this template -->
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
@@ -20,226 +18,22 @@
   </head>
 
   <body>
-    <!-- Start .top-bar -->
-		<div id="navigation" class="top-bar">
-			<nav class="navbar navbar-default">
-				<div class="container">
-					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#site-collapse-nav" aria-expanded="false">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<a class="navbar-brand" href="#header"><img src="{{site.baseurl}}/images/logo-nyelam.png" alt="logo" /></a>
-					</div>
+	{% navigation.html %}
 
-					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="site-collapse-nav">
-						<ul class="navbar-right pt-30 hidden-xs">
-							<li><a href="#speoffer" class="button">All locations <i class="icofont icofont-rounded-double-right"></i></a></li>
-						</ul>                    
-						<ul class="nav nav-list navbar-nav navbar-right">
-							<li><a href="#hotdeal">Bali Diving </a></li>
-							<li><a href="#reviews">Komodo Diving</a></li>
-							<li><a href="#reviews">Raja Ampat Diving</a></li>
-						</ul>
-					</div><!-- /.navbar-collapse -->
-				</div><!-- /.container -->
-			</nav>
-		</div><!-- .top-bar -->
-		
-		
-		<!-- Start .header-section -->
-		<div class="header-section parallax" id="header">
-			<div class="overlay light">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-6 col-xs-12">
-							<div class="header-texts">
-								<h4>$85/<small> per person </small></h4>
-								<h3>Affordable Diving Experience in</h3>
-								<h1>Bali, Komodo and All Around Indonesia</h1>
-								<a href="#" class="button">Book your trip now</a>
-							</div>
-						</div><!-- .col -->
-						<div class="col-md-1 hidden-xs"></div><!-- .col -->
-						<div class="col-md-5 hidden-xs">
-							<div class="header-video">
-								<iframe width="100%" height="250" src="https://www.youtube.com/embed/VVVlauWBwG0?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-								<a href="https://www.youtube.com/watch?v=VVVlauWBwG0" data-effect="mfp-3d-unfold" class="play-button embaded-popup">
-									<span class="pb-border-1">
-										<span class="pb-border-2">
-											<i class="icofont icofont-ui-play"></i>
-										</span>
-									</span>
-								</a><!-- .play-button -->
-							</div>
-						</div><!-- .col -->
-					</div><!-- .row -->
-				</div><!-- .container -->
-			</div><!-- .overlay -->
-		</div><!-- .header-section -->
-		
-		
-		<!-- Start .process-section -->
-		<div class="process-section">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4 col-sm-6">
-						<div class="single-process">
-							<i class="icofont icofont-map-pins"></i>
-							<h6>Select dive spot</h6>
-							<p>At first choose the place you always wanted to go.</p>
-						</div>
-					</div><!-- .col -->
-					<div class="col-md-4 col-sm-6">
-						<div class="single-process">
-							<i class="icofont icofont-plane-ticket"></i>
-							<h6>Book your trip</h6>
-							<p>CHAT with us, then book your trip from our exclusive offers.</p>
-						</div>
-					</div><!-- .col -->
-					<div class="col-md-4 col-sm-6">
-						<div class="single-process">
-							<i class="icofont icofont-animal-fish-alt-4"></i>
-							<h6>Dive right in</h6>
-							<p>Take your flight and enjoy paradise on earth.</p>
-						</div>
-					</div><!-- .col -->
-				</div><!-- .row -->
-			</div><!-- .container -->
-		</div><!-- .process-section -->
-		
-		
-		<!-- Start .deals-section -->
-		<div class="deals-section alt-bg" id="hotdeal">
-			<div class="container">
-				<div class="section-head">
-					<div class="row text-center">
-						<div class="col-md-12">
-							<h4><span>Hot </span>Deals</h4>
-							<p class="lead">please check out our latest dive packages</p>
-						</div>
-					</div>
-				</div><!-- .section-head -->
-				<div class="deals-list">
-					<div class="row">
-						<div class="col-md-4 col-sm-6">
-							<div class="single-deal">
-								<div class="sDeal-top">
-									<img src="images/deals/1.jpg" alt="deals" />
-									<ul>
-										<li>3 dives</li>
-										<li>komodo dragon sightseeing</li>
-									</ul>
-									<div class="sDeal-action">
-										<h5>$100</h5>
-										<h4>$85</h4>
-										<a href="https://api.whatsapp.com/send?phone=6281285774100&text=Ill%20take%20Komodo%20deal" class="button sm">Get offer</a>
-									</div>
-								</div>
-								<div class="sDeal-bottom">
-									<h6><span>1 day activity</span>Tatawa, Komodo Island</h6>
-								</div>
-							</div>
-						</div><!-- .col -->
-						<div class="col-md-4 col-sm-6">
-							<div class="single-deal">
-								<div class="sDeal-top">
-									<img src="images/deals/3.jpg" alt="deals" />
-									<ul>
-										<li>3 dives</li>
-										<li>meals and local transport included</li>
-									</ul>
-									<div class="sDeal-action">
-										<h5>$80.00</h5>
-										<h4>$69.00</h4>
-										<a href="https://api.whatsapp.com/send?phone=6281285774100&text=Ill%20take%20Rajampat%20deal" class="button sm">Get offer</a>
-									</div>
-								</div>
-								<div class="sDeal-bottom">
-									<h6><span>1 day activity</span>Raja Ampat, West Papua</h6>
-								</div>
-							</div>
-						</div><!-- .col -->
-						<div class="col-md-4 col-sm-6">
-							<div class="single-deal">
-								<div class="sDeal-top">
-									<img src="images/deals/2.jpg" alt="deals" />
-									<ul>
-										<li>2 dives</li>
-										<li>meals and local transport included</li>
-									</ul>
-									<div class="sDeal-action">
-										<h5>$100.00</h5>
-										<h4>$55.00</h4>
-										<a href="https://api.whatsapp.com/send?phone=6281285774100&text=Ill%20take%20Bali%20deal" class="button sm">Get offer</a>
-									</div>
-								</div>
-								<div class="sDeal-bottom">
-									<h6><span>1 day activity</span>Tulamben, Bali</h6>
-								</div>
-							</div>
-						</div><!-- .col -->
-					</div><!-- .row -->
-				</div><!-- .deals-list -->
-			</div><!-- .container -->
-		</div><!-- .deals-section -->
-		
-		
-		<!-- Start .offer-section -->
-		<div class="offer-section">
-			<div class="download-box">
-				<img src="images/phone-template.png"  />
-			</div>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6">
-						<div class="offer-image">
-							<img src="https://files.slack.com/files-pri/T9R5LHF5L-FBLABTFA4/ig-feed_1200x1200_ecotrip2_070718.jpg" alt="deals" />
-							<h1>$119</h1>
-						</div>
-					</div><!-- .col -->
-					<div class="col-md-6">
-						<div class="offer-texts">
-							<h6>Voluntary program</h6>
-							<h4>$65 for 2 days 1 night</h4>
-							<h3>HARAPAN ISLAND</h3>
-							<p class="lead">Save our ocean, conserving the island while taking a dose of vitamin sea.</p>
-							<ul class="clearfix">
-								<li>Island hoping</li>
-								<li>Diving</li>
-								<li>Snorkeling</li>
-								<li>Eco brick training</li>
-								<li>Visiting waste bank</li>
-								<li>Plastic ocean screening</li>
-								<li>Turtle conservation</li>
-								<li>Sunrise and sunset hunting</li>
-							</ul>
-							<a href="#" class="button sm">JOIN PROGRAM</a>
-						</div>
-					</div><!-- .col -->
-				</div><!-- .row -->
-			</div><!-- .container -->
-		</div><!-- .offer-section -->
-	  
-		
-		{% include testimonials.html %}
-		
-		
-		{% include partners.html %}
-		
-		
-		{% include faq.html %}
-	  
-		
-		{% include footer.html %}
-		
-		
-		{% include alljs.html %}
+	{% header.html %}
+
+	{% landing.html %}
+
+	{% include testimonials.html %}
+
+	{% include partners.html %}
+
+	{% include faq.html %}
+
+	{% include footer.html %}
+
+	{% include alljs.html %}
     
-    {% include analytics.html %}
+	{% include analytics.html %}
   </body>
 </html>
