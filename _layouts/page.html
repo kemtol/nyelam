@@ -2,12 +2,15 @@
 layout: default
 ---
 
-<div class="container page">  
-  <h1>{{ page.title }}</h1>
+<div class="page">  
+  <h1 class="container">{{ page.title }}</h1>
 
-  {% include services-list.html %}
+  <!-- Start .deals-section -->
+  <div class="deals-section" id="#service--list">
+  </div>
+  <!-- .deals-section -->
 
-  <div class="entry">
+  <div class="container entry">
     {{ content }}
   </div>
 </div>
