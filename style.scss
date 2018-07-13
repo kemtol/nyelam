@@ -1032,6 +1032,23 @@ article.post{
 	}
 } 
 
+/* service page */
+.service-page{
+	padding: 3rem 0;
+	margin-bottom: 10rem;
+	h1{
+		font-size: 14px;
+		padding: 2rem;
+		margin-bottom: 3rem;
+		border-bottom: 1px dotted #aaa;
+	}
+	h2{
+		font-size:32px;
+	}
+	h2,p{
+		margin-bottom:5rem;
+	}
+}
 
 /*Coustom Media Query CSS*/
 
