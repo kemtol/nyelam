@@ -8,7 +8,7 @@ call_ajax: services-bali.html
 
 ## Why Scuba Diving in Bali?
 
-<img class="img-responsive" src="https://putubalitour.files.wordpress.com/2015/02/menjangan1.jpg" />
+<img class="img-responsive" src="{{site.url}}/images/spots/diving-in-bali.jpg" />
 
 Check all the best dive spot in Bali. These best diving spots in Bali are the place you can find the island's submerged excellence. Bali itself has developed into the major league of diving game. Each of Bali diving spots have something unique to offer, while suitable for any kind of diving level. Generally, best time to go diving in Bali is around the drier months. Which are in April and November. 
 
