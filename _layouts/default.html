@@ -39,5 +39,9 @@
 	{% include alljs.html %}
     
 	{% include analytics.html %}
+	
+	{% if page.call_ajax != null %}
+	  <div>ini cuma muncul di halaman page</div>
+	{% endif %}
   </body>
 </html>
