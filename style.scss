@@ -1001,6 +1001,36 @@ body{
 }
 
 
+/* article */
+article.post{
+	margin:10rem 0;
+	
+	h1,h2,p{
+		margin-bottom:2rem;
+	}
+	
+	h1{
+		font-size:48px;
+		margin-bottom:2rem;
+	}
+	h2{
+		font-size:32px;
+		
+	}
+	.date{
+		font-size: 14px;
+		margin-bottom: 2rem;
+		line-height: 24px;
+		padding: 1rem 2.5rem;
+		color: #111;
+	}
+	.post-feat-img{
+		margin-bottom:2rem;
+		
+	}
+} 
+
+
 /*Coustom Media Query CSS*/
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
