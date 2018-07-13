@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $.get("{{site.url}}/ajax/services-bali.html", function(data){
+  $.get("https://kemtol.github.io/nyelam/ajax/services-bali.html", function(data){
     alert(data);
   });
 });
