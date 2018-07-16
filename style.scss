@@ -1015,7 +1015,7 @@ article.post{
 	}
 	h2{
 		font-size:32px;
-		
+		letter-spacing:0.25px;
 	}
 	.date{
 		font-size: 14px;
@@ -1044,6 +1044,7 @@ article.post{
 	}
 	h2{
 		font-size:32px;
+		letter-spacing:0.25;
 	}
 	h3{
 		font-size: 32px;
@@ -1054,6 +1055,12 @@ article.post{
 	}
 	.img-responsive{
 		width:1200px;
+	}
+}
+
+#service--list{
+	.container{
+		border-bottom: 1px solid #eee;
 	}
 }
 
