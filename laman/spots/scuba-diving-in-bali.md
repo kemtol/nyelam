@@ -1,7 +1,7 @@
 ---
 layout: service-page
 is_deals: true
-title: 10 Dive Spot for Scuba Dive in Bali, Indonesia
+title: 9 Dive Spot for Scuba Dive in Bali, Indonesia
 permalink: /scuba-diving-bali.html
 call_ajax: services-bali.html
 ---
