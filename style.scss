@@ -198,7 +198,8 @@ p,ul,blockquote{
 }
 
 /* Override */
-ul{
+service-page ul,
+article ul{
 	li{
 		font-size: 21px;
 		line-height: 1.66em;
