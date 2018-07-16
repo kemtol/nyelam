@@ -23,7 +23,7 @@ The tour may begin or result in Bali or Maumere and mind through the center of t
 
 Why is Komodo National Playground among the finest places on the planet to dive would be that the waters here are a variety of different systems of drinking water: the Indian Sea and the Flores Sea. Which means that there's a huge variety of sea life and corals that can live and prosper in this field.
 
-<iframe width="100%" height="800" src="https://www.youtube.com/embed/xWlbnsYWMjQ?rel=0&amp;showinfo=0&amp;start=5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/xWlbnsYWMjQ?rel=0&amp;showinfo=0&amp;start=5" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### The TOP one
 
