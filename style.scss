@@ -1090,6 +1090,13 @@ article.post{
 				}
 			}
 		}
+		.deals-list{
+			ul{
+				li{
+					color:#fff;
+				}
+			}
+		}
 	}
 	.img-responsive{
 		width:1200px;
@@ -1099,14 +1106,6 @@ article.post{
 #service--list{
 	.container{
 		border-bottom: 1px solid #eee;
-	}
-}
-
-.deals-list{
-	ul{
-		li{
-			color:#fff;
-		}
 	}
 }
 
