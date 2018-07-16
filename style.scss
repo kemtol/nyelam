@@ -1028,6 +1028,16 @@ article.post{
 		font-size:32px;
 		letter-spacing:0.25px;
 	}
+	ul{
+		li{
+			ul{
+				margin-bottom:2rem;
+				li{
+					padding-left:2rem;
+				}
+			}
+		}
+	}
 	.date{
 		font-size: 14px;
 		margin-bottom: 2rem;
@@ -1063,6 +1073,16 @@ article.post{
 	}
 	h2,h3,p,iframe,ul{
 		margin-bottom:5rem;
+	}
+	ul{
+		li{
+			ul{
+				margin-bottom:2rem;
+				li{
+					padding-left:2rem;
+				}
+			}
+		}
 	}
 	.img-responsive{
 		width:1200px;
