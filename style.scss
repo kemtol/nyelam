@@ -576,14 +576,6 @@ body{
 }
 
 
-.deals-list{
-	ul{
-		li{
-			color:#fff;
-		}
-	}
-}
-
 /*.offer-section*/
 
 .offer-section{
@@ -1107,6 +1099,14 @@ article.post{
 #service--list{
 	.container{
 		border-bottom: 1px solid #eee;
+	}
+}
+
+.deals-list{
+	ul{
+		li{
+			color:#fff;
+		}
 	}
 }
 
