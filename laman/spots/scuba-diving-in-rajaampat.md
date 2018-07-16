@@ -1,7 +1,7 @@
 ---
 layout: service-page
 is_deals: true
-title: 10 Dive Spot for Scuba Dive in Raja Ampat, Indonesia
+title: 9 Dive Spot for Scuba Dive in Raja Ampat, Indonesia
 permalink: /scuba-diving-rajaampat.html
 call_ajax: services-rajaampat.html
 ---
