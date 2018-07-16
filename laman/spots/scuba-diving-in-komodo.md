@@ -15,7 +15,7 @@ Since 1991 the Komodo Country wide Park is regarded as a World History Site by U
 The dive sites here offer an unbelievable variety of dives, making this sail so special. 1 day you might have a leisurely dive, marveling at the rarest animals in the macro range, and the very next day, drift with manta rays and large classes of fish. You'll find over 1,000 types of seafood in these waters, 260 kinds of reef corals, 70 different sponges, 17 varieties of whales and dolphins and two kinds of sea turtles.
 
 ## Itinerary
-Pindito sets great importance to plan the perfect tour because of their friends. When planning the road, many factors play an important role. The main factor is the elements. Since there may be storms in the tropics anytime, Pindito might change routes and itineraries at brief notice.
+When planning the trip, many factors play an important role. The main factor is the elements. Since there may be storms in the tropics anytime, Pindito might change routes and itineraries at brief notice.
 
 The tour may begin or result in Bali or Maumere and mind through the center of the Komodo Country wide Park. More often than not is put in around the hawaiian islands of Banta, Komodo and Rinca. Additionally you go to the smaller islands of Gili Lawa Laut and Tatawa Besar. The dispatch also may visit the island of Moyo and Saneang.
 
