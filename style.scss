@@ -197,6 +197,17 @@ p,ul,blockquote{
 	color:#777;
 }
 
+/* Override */
+ul{
+	li{
+		font-size: 21px;
+		line-height: 1.66em;
+		font-weight: 300;
+		letter-spacing: 0.05em;
+		list-style: disc;
+		list-style-position: inside;
+	}
+}
 
 /* Common CSS */
 
