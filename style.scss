@@ -596,6 +596,7 @@ body{
 	position:relative;
 	@include mobile{
 		padding:10rem 0;
+		text-align:center;
 	}
 }
 .offer-image{
@@ -634,6 +635,10 @@ body{
 
 .offer-texts ul{
 	padding-bottom:20px;
+	@include mobile{
+		text-align: left;
+		padding: 5rem;
+	}
 }
 .offer-texts ul li{
 	float:left;
@@ -685,10 +690,10 @@ body{
 			top:0;
 			left:0;
 			max-width:100%;
-			width: 200px;
+			width: 250px;
 			display: inline-block;
 			text-align: center;
-			margin: 2rem 0;
+			margin: 2rem 0 0;
 		}
 	}
 	
@@ -705,10 +710,10 @@ body{
 			left:0;
 			right:unset;
 			max-width:100%;
-			width: 200px;
+			width: 250px;
 			display: inline-block;
 			text-align: center;
-			margin: 2rem 0;
+			margin: 4rem 0 0;
 		}
 	}
 	
@@ -1284,6 +1289,7 @@ article.post{
 	.video-testimonial a {
 		top: 0;
 		z-index: 2;
+		transform: translate(-50%,0);
 	}
 	.single-faq{
 		padding-right:0
