@@ -485,6 +485,9 @@ body{
 
 .process-section{
 	padding:93px 0 53px;
+	@include mobile{
+		padding:5rem 0 2rem;
+	}
 }
 .single-process{
 	position:relative;
@@ -1255,7 +1258,10 @@ article.post{
 		line-height:50px;
 	}
 	.header-texts h3 {
-		padding: 14px 0;
+		padding: 0rem 0 5rem;
+		background: transparent;
+		color: #fff;
+		border-bottom: 2px solid #fff;
 	}
 	.header-video{
 		padding:70px 0;
