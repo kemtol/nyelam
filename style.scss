@@ -269,6 +269,9 @@ body{
 }
 .section-head{
 	padding:124px 0 40px;
+	@include mobile{
+		padding:10rem 0 2.5rem
+	}
 }
 .section-head h4{
 	font-weight:900;
