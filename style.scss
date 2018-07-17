@@ -657,6 +657,20 @@ body{
 	img{
 		width:100%;
 	}
+	
+	#btn--download--playstore{
+		position: absolute;
+		transform: translate(-50%,-50%);
+		top: 50%;
+		left:-200px;
+	}
+	
+	#btn--download--appstore{
+		position: absolute;
+		transform: translate(-50%,-50%);
+		top: 50%;
+		right:-200px;
+	}
 }
 
 .spe-offer-section .overlay{
