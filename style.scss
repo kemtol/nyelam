@@ -664,6 +664,14 @@ body{
 		top: 50%;
 		left: -250px;
 		width: 300px;
+		@mobile{
+			transform: translate(0,0);
+			position:relative;
+			top:0;
+			left:0;
+			max-width:100%;
+			width:100%;
+		}
 	}
 	
 	#btn--download--appstore{
@@ -672,6 +680,19 @@ body{
 		top: 50%;
 		right: -250px;
 		width: 300px;
+		@mobile{
+			transform: translate(0,0);
+			position:relative;
+			top:0;
+			left:0;
+			right:unset;
+			max-width:100%;
+			width:100%;
+		}
+	}
+	
+	@mobile{
+		width:100%;
 	}
 }
 
