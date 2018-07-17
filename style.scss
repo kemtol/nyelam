@@ -23,6 +23,9 @@ body{
 	font-size:14px;
 	line-height:1.71em;
 	letter-spacing:0.075em;
+	@include mobile{
+		padding-top:7rem;
+	}
 }
 h1,.h1-like{
 	font-size:72px;
@@ -383,6 +386,9 @@ body{
 	background:#fff;
 	z-index:999;
 	/*border-bottom:1px solid #edf3ff;*/
+	@include mobile{
+		padding:1rem 0;
+	}
 }
 .nav-list{
 	padding-right:28px;
