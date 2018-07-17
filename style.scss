@@ -664,7 +664,7 @@ body{
 		top: 50%;
 		left: -250px;
 		width: 300px;
-		@mobile{
+		@include mobile{
 			transform: translate(0,0);
 			position:relative;
 			top:0;
@@ -680,7 +680,7 @@ body{
 		top: 50%;
 		right: -250px;
 		width: 300px;
-		@mobile{
+		@include mobile{
 			transform: translate(0,0);
 			position:relative;
 			top:0;
@@ -691,7 +691,7 @@ body{
 		}
 	}
 	
-	@mobile{
+	@include mobile{
 		width:100%;
 	}
 }
