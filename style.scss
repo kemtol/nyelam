@@ -23,9 +23,6 @@ body{
 	font-size:14px;
 	line-height:1.71em;
 	letter-spacing:0.075em;
-	@include mobile{
-		padding-top:7rem;
-	}
 }
 h1,.h1-like{
 	font-size:72px;
@@ -1218,7 +1215,9 @@ article.post{
 }
 
 @media only screen and (max-width: 767px) {
-	
+	body{
+		padding-top:7rem;
+	}
 	.parallax {
 		background-attachment: scroll !important;
 		background-position: center top !important;
@@ -1258,10 +1257,11 @@ article.post{
 		line-height:50px;
 	}
 	.header-texts h3 {
-		padding: 0rem 0 5rem;
+		padding: 5rem 0 5rem;
 		background: transparent;
 		color: #fff;
 		border-bottom: 2px solid #fff;
+		border-top: 2px solid #fff;
 	}
 	.header-video{
 		padding:70px 0;
