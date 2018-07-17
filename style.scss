@@ -503,6 +503,9 @@ body{
 
 #hotdeal{
 	padding-bottom:40rem;
+	@include mobile{
+		padding-bottom:10rem;
+	}
 }
 
 .single-deal{
@@ -582,6 +585,9 @@ body{
 	padding:130px 0;
 	padding-top:40rem;
 	position:relative;
+	@include mobile{
+		padding:10rem 0;
+	}
 }
 .offer-image{
 	position:relative;
@@ -670,7 +676,10 @@ body{
 			top:0;
 			left:0;
 			max-width:100%;
-			width:100%;
+			width: 200px;
+			display: inline-block;
+			text-align: center;
+			margin: 2rem 0;
 		}
 	}
 	
@@ -687,12 +696,21 @@ body{
 			left:0;
 			right:unset;
 			max-width:100%;
-			width:100%;
+			width: 200px;
+			display: inline-block;
+			text-align: center;
+			margin: 2rem 0;
 		}
 	}
 	
 	@include mobile{
 		width:100%;
+		position: relative;
+		background: #4c86fa;
+		padding: 10rem 1.5rem;
+		transform: translate(0,0);
+		left: 0;
+		margin-bottom:10rem;
 	}
 }
 
