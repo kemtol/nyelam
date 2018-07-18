@@ -48,9 +48,11 @@ jQuery(window).on('load', function () {
 	});
 	
 	//patch for wa api in firefox and opera
-	$("a[href*='whatsapp']").each(function() {
-		$(this).attr("href", $(this).attr('href').replace(/\bapi\b/g, 'web'));
-	});
-	
+	//check if mobile
+	if (typeof window.orientation == 'undefined'){
+		$("a[href*='whatsapp']").each(function() {
+			$(this).attr("href", $(this).attr('href').replace(/\bapi\b/g, 'web'));
+		});
+	}
 	console.log(browser);
 });
