@@ -270,7 +270,7 @@ body{
 .section-head{
 	padding:124px 0 40px;
 	@include mobile{
-		padding:10rem 0 2.5rem
+		padding:5rem 0 2.5rem
 	}
 }
 .section-head h4{
@@ -513,7 +513,7 @@ body{
 #hotdeal{
 	padding-bottom:40rem;
 	@include mobile{
-		padding-bottom:10rem;
+		padding-bottom:5rem;
 	}
 }
 
@@ -595,7 +595,7 @@ body{
 	padding-top:40rem;
 	position:relative;
 	@include mobile{
-		padding:10rem 0;
+		padding:0 0 10rem 0;
 		text-align:center;
 	}
 }
