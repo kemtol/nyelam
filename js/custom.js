@@ -48,10 +48,9 @@ jQuery(window).on('load', function () {
 	});
 	
 	//patch for wa api in firefox and opera
-
-	$("a").each(function() {
-		str = $(this).attr('href').replace(/\bapi\b/g, 'web');
-		console.log(str);
-	})
-
+	if(browser == "Firefox" || browser == "Opera"){
+		$("a[href*='whatsapp']").each(function() {
+			$(this).attr("href", $(this).attr('href').replace(/\bapi\b/g, 'web'));
+		})
+	}
 });
