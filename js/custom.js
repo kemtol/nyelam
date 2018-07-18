@@ -48,5 +48,10 @@ jQuery(window).on('load', function () {
 	});
 	
 	//patch for wa api in firefox and opera
-	console.log(browser());
+
+	$("a").each(function() {
+		str = $(this).attr('href').replace(/\bapi\b/g, 'web');
+		console.log(str);
+	})
+
 });
