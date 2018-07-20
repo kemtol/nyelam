@@ -20,7 +20,7 @@ What makes Bali extraordinary is you can dive all years around. Blustery season 
 
 ### Rainy Season
 
-<img class="img-responsive" src="http://indosurflife.com/wp-content/uploads/2016/02/rain-season-lady-720x543.jpg" />
+<img class="img-responsive" src="https://www.intrepidtravel.com/sites/intrepid/files/styles/low-quality/public/elements/product/hero/TIKI_Indonesia_Rice-terrace-walk_traveller_584283820.jpg" />
 
 Dec to March theoretically considered rain season. Rainwater is merely marginally more probable of these weeks than entire year around. The water temps during rainy season become a lttle bit warmer, indicating there are fewer pelagic varieties near to the island. Visibility can be negatively influenced.
 
