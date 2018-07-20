@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  var hostname = "http://www.e-nyelam.com";
+  var hostname = "http://e-nyelam.com";
   var servlist = $(location).attr('pathname').split(/[\s-]+/);
   var datasource = hostname + "/ajax/services-" + servlist[servlist.length-1];
   
