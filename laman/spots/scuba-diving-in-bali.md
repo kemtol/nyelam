@@ -20,11 +20,16 @@ What makes Bali extraordinary is you can dive all years around. Blustery season 
 
 ### Rainy Season
 
+<img class="img-responsive" src="http://indosurflife.com/wp-content/uploads/2016/02/rain-season-lady-720x543.jpg" />
+
 Dec to March theoretically considered rain season. Rainwater is merely marginally more probable of these weeks than entire year around. The water temps during rainy season become a lttle bit warmer, indicating there are fewer pelagic varieties near to the island. Visibility can be negatively influenced.
 
 Having said that, conditions remain great for scuba during rainy season. Furthermore, there are fewer divers surrounding the island from Dec to March so this means you will discover the best price at the moment.
 
 ### Dry Season
+
+<img class="img-responsive" src="https://seasonsyear.com/sites/default/files/images/asia/Indonesia-summer-1.jpg" />
+
 All of those other year, from Apr to November, is known for dry season. Take into account that it still rain occasionally for these months.
 
 Dry season means a rise in pelagic types and visibility. Specifically, June to Sept are the best wonderful months for spotting Mola Mola and variant kind of sharks. Mantas have a tendency to visit somewhat earlier. Apr to June will be the best a few months for those elegant creatures.
