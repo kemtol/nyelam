@@ -34,11 +34,7 @@ whale sharks, manta rays, devil rays, hammerheads, dugongs, white and dark-color
 
 ### The OK one
 
-Pygmy seahorse, hairy frogfish, nudibranchs, ghost tube fish, blue engagement ring octopus, flamboyant cuttlefish.
-
-You can even be prepared to see a great deal of schooling seafood, sweetlips, batfish, cause fish, angel seafood, clown seafood, scorpion seafood, lion seafood etc. Addititionally there is tonnes of wonderfully colored hard and smooth corals.
-
-Whether you like drift dives, macro dives, or maybe checking out coral reefs, Komodo Country wide Recreation area has dive sites for everybody.
+Pygmy seahorse, hairy frogfish, nudibranchs, ghost tube fish, blue engagement ring octopus, flamboyant cuttlefish. You can even be prepared to see a great deal of schooling seafood, sweetlips, batfish, cause fish, angel seafood, clown seafood, scorpion seafood, lion seafood etc. Addititionally there is tonnes of wonderfully colored hard and smooth corals. Whether you like drift dives, macro dives, or maybe checking out coral reefs, Komodo Country wide Recreation area has dive sites for everybody.
 
 ## What to expect for diving in Komodo
 
