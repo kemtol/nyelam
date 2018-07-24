@@ -989,6 +989,27 @@ body{
 	padding-top: 10rem;
 }
 
+#download--section .container > div{
+	display: inline-block;
+	position: relative;
+}
+
+#download--section .container > div #btn--download--appstore{
+	position: absolute;
+	transform: translate(0, -50%);
+	top: 50%;
+	left: -250px;
+	width: 300px;
+}
+
+#download--section .container > div #btn--download--playstore{
+	position: absolute;
+	transform: translate(0, -50%);
+	top: 50%;
+	right: -250px;
+	width: 300px;
+}
+
 /*.footer-section*/
 
 .footer-section{
