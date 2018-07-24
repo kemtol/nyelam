@@ -16,7 +16,7 @@ The dive sites here offer an unbelievable variety of dives, making this sail so 
 
 ## Itinerary
 
-<img class="img-responsive" src="http://wickeddiving.com/wp-content/uploads/Komodo-liveaboard-wicked.jpg" />
+<img class="img-responsive" src="http://www.scuba-republic.com/wp-content/uploads/2016/11/Komodo-Island-Diving.jpg" />
 
 When planning the trip, many factors play an important role. The main factor is the elements. Since there may be storms in the tropics anytime, Pindito might change routes and itineraries at brief notice.
 
@@ -37,6 +37,8 @@ whale sharks, manta rays, devil rays, hammerheads, dugongs, white and dark-color
 Pygmy seahorse, hairy frogfish, nudibranchs, ghost tube fish, blue engagement ring octopus, flamboyant cuttlefish. You can even be prepared to see a great deal of schooling seafood, sweetlips, batfish, cause fish, angel seafood, clown seafood, scorpion seafood, lion seafood etc. Addititionally there is tonnes of wonderfully colored hard and smooth corals. Whether you like drift dives, macro dives, or maybe checking out coral reefs, Komodo Country wide Recreation area has dive sites for everybody.
 
 ## What to expect for diving in Komodo
+
+<img class="img-responsive" src="https://i.ytimg.com/vi/pYd09cwGxfE/maxresdefault.jpg" />
 
 The undersea currents flow of the Komodo National Park are known to be quite strong, divers are often required to have an advanced diving certificate to enjoy certain amazing diving points. But don't worry, for novice divers you'll be safe just do what your instructor said. This national park has plenty of beautifull coral reefs that can be enjoyed. One of the most famous places that all tourists can enjoy is Pink Beach. Beach sand that looks pink is a favorite place for diving, snorkeling, or just relaxing on the beach. But remember, this place is still the habitat of Dragon Komodo so stay alert.
 
