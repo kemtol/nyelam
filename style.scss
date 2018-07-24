@@ -1184,6 +1184,17 @@ article.post{
 	}
 }
 
+.cta--in--page{
+	font-size: 24px;
+	background: yellow;
+	text-decoration: underline;
+	color: blue;
+}
+
+.cta--in--page:after{
+	content:"\f30b";
+}
+
 /*Coustom Media Query CSS*/
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
