@@ -10,9 +10,19 @@ call_ajax: services-rajaampat.html
 
 <img class="img-responsive" src="https://www.sunrise-divers.com/wp-content/uploads/2017/05/manta-raja-ampat.jpg" />
 
+If the mountaineers have the Everest Peak as a mecca, then the divers choose Raja Ampat as a sacred destination that must be visited. Raja Ampat underwater wealth has been recognized world. Not a few foreign diver who want to bother coming all the way here to explore the beauty of the underwater Raja Ampat. No less a class expert Gerry Allen also said: "This is a diving paradise and marine biota exploration laboratory"
+
+Diving is a mandatory activity in Raja Ampat. You can go to small island called Friwen Mondai. Direct coral overflow presented beautifully. Various forms of coral reefs grow here and there. All are healthy and intact. Things like this are hard to come by in snorkeling spot elsewhere. The fish milling about in very large quantities.
+
+The underwater contours around Friwen Mondai allow you to witness a variety of coral reefs. The seabed close to the island has a depth of about 3 to 4 meters. Not far from there, immediately turn into a slope or a cliff with a depth of dozens of meters. Various soft corals with different colors grow in vertical position. Sunlight that penetrates into the water radiates into ray of light files.
+
+## What to expect diving in Raja Ampat
+
 Biogeographical lines are enjoyable. OK they may well not appear it, but underwater they're nothing like a garden fence. These are overlapping areas where biodiversity has a celebration with an explosion of varieties which will make for jaw-dropping diving activities. Located off of the northwest idea of Bird's Mind Peninsula on the island of New Guinea in Indonesia's Western Papua Province, Raja Ampat's 1,500 roughly islands, cays and shoals are centred about the four main islands of Misool, Salawati, Batanta and Waigeo.
 
 Raja Ampat is revered within diving circles as among the finest places on the globe to dive. The macro life, for example, is a cacophony of family pets created by the mixing up of marine life from both attributes of Lydekker's brand. Further up the meals chain will be the huge shoals of seafood of most sizes, manta rays and sharks and the remoteness of the positioning and having less tourist activity has generated a dive vacation spot that few can match. Just list the varieties that inhabit the Raja Ampat archipelago and traditional western Papua can be an exercise in futility, as there's a whole lot.
+
+## Liveaboard diving in Raja Ampat
 
 Liveaboard diving Raja Ampat is usually done from Sorong (Western Papua) on the circular option but other itineraries are possible, including embarkation in Bitung, on North Sulawesi, and cruising to Sarong, an itinerary that calls for divers through the center of Raja Ampat.
 
