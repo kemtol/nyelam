@@ -14,6 +14,8 @@ Check all the best dive spot in Bali. These best diving spots in Bali are the pl
 
 Unmistakable features incorporate wrecks with a touch of history to tell. Far reaching counterfeit 'biorock' reefs offer an exceptional submerged photograph operation. They highlight depressed patio nurseries, statues and sanctuaries congested with ocean fans and abounding with tropical fish. The best plunge locales in Bali likewise let you witness uncommon species. Substantial manta beams, slippery maritime sunfish or 'mola-mola', reef sharks, ocean turtles and little dwarf seahorses are among them.
 
+<a href="https://web.whatsapp.com/send?phone=6281285774100&text=Hi,%20E-Nyelam" class="cta--in--page">Need to go there? Chat with us</a>
+
 ## When to Dive Bali
 
 What makes Bali extraordinary is you can dive all years around. Blustery season keeps going from December to March. From April to November, you'll have the most obvious opportunity for pelagics.
@@ -35,3 +37,5 @@ All of those other year, from Apr to November, is known for dry season. Take int
 Dry season means a rise in pelagic types and visibility. Specifically, June to Sept are the best wonderful months for spotting Mola Mola and variant kind of sharks. Mantas have a tendency to visit somewhat earlier. Apr to June will be the best a few months for those elegant creatures.
 
 Finally, Apr to July and Oct to November are exquisite for Tulamben and wreck diving. Awareness during these calendar months often tops 130 toes (40 meters)!
+
+<a href="https://web.whatsapp.com/send?phone=6281285774100&text=Hi,%20E-Nyelam" class="cta--in--page">Wait no more, you only live once! Chat with us</a>
