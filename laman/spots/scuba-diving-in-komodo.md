@@ -1,7 +1,7 @@
 ---
 layout: service-page
 is_deals: true
-title: 9 Dive Spot for Scuba Dive in Komodo, Indonesia
+title: 3 Dive Spot for Scuba Dive in Komodo, Indonesia
 permalink: /scuba-diving-komodo.html
 call_ajax: services-komodo.html
 ---
