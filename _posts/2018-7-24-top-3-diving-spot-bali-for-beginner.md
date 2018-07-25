@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 DIVING SPOTS IN BALI FOR BEGINNER
+title: 3 Diving Spots in Bali for Beginner
 permalink: /diving-spot-in-bali-for-beginner.html
 author: Vika Astri
 ---
