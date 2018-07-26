@@ -4,7 +4,7 @@ title: 3 Diving Spots in Bali for Beginner
 permalink: /diving-spot-in-bali-for-beginner.html
 author: Vika Astri
 categories:
-- Journal
+- journal
 ---
 
 <img class="post-feat-img img-responsive" src="http://story.tourders.com/wp-content/uploads/2016/02/scuba-diving-1024x768.jpg" />
