@@ -9,8 +9,23 @@ layout: default
   <div class="deals-section" id="service--list">
   </div>
   <!-- .deals-section -->
-
+  {% if page.is_directory != true %}
   <div class="container entry">
     {{ content }}
   </div>
+  {% else %}
+    <div class="container entry">
+      <div class="col-xs-12 col-md-6">
+      {{ content }}
+      </div>
+      <div class="col-xs-12 col-md-6">
+        <h2 id="dive-journal">Dive Journal</h2>
+        <ul>
+        {% for post in site.categories.journal %} 
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  {% endif %}
 </div>
