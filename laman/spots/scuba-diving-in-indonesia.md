@@ -17,12 +17,3 @@ is_directory: true
 * **Papua**
   * [Raja Ampat](/scuba-diving-rajaampat.html)
 
-## By province
-
-* **Bali**
-  * [Tulamben](/scuba-diving-bali.html)
-* **East Nusa Tenggara**
-  * [Labuan Bajo](/scuba-diving-komodo.html)
-* **Papua**
-  * [Raja Ampat](/scuba-diving-rajaampat.html)
-
