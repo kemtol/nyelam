@@ -4,6 +4,7 @@ is_deals: true
 title: Indonesia Diving Spot Directory
 permalink: /scuba-diving-indonesia.html
 call_ajax: services-indonesia.html
+is_directory: true
 ---
 
 ## Most popular
