@@ -9,20 +9,20 @@ is_directory: true
 
 ## Most popular
 
-* Bali
+* **Bali**
   * [Tulamben](/scuba-diving-bali.html)
-* East Nusa Tenggara
+* **East Nusa Tenggara**
   * [Komodo](/scuba-diving-komodo.html)
   * [Labuan Bajo](/scuba-diving-komodo.html)
-* Papua
+* **Papua**
   * [Raja Ampat](/scuba-diving-rajaampat.html)
 
 ## By province
 
-* Bali
+* **Bali**
   * [Tulamben](/scuba-diving-bali.html)
-* East Nusa Tenggara
+* **East Nusa Tenggara**
   * [Labuan Bajo](/scuba-diving-komodo.html)
-* Papua
+* **Papua**
   * [Raja Ampat](/scuba-diving-rajaampat.html)
 
