@@ -26,8 +26,3 @@ is_directory: true
 * Papua
   * [Raja Ampat](/scuba-diving-rajaampat.html)
 
-## Dive Journal
-
-* [7 Best Spots for Scuba Dive in Indonesia](/best-scuba-diving-spots-in-indonesia.html)
-* [3 Diving Spots in Bali for Beginner](/diving-spot-in-bali-for-beginner.html)
-
