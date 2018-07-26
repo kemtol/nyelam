@@ -14,11 +14,11 @@ layout: default
     {{ content }}
   </div>
   {% else %}
-    <div class="container entry">
-      <div class="col-xs-12 col-md-6">
+    <div id="directory--page" class="container entry">
+      <div class="text-cencer col-xs-12 col-md-6">
       {{ content }}
       </div>
-      <div class="col-xs-12 col-md-6">
+      <div class="text-cencer col-xs-12 col-md-6">
         <h2 id="dive-journal">Dive Journal</h2>
         <ul>
         {% for post in site.categories.journal %} 
