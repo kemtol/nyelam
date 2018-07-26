@@ -4,7 +4,7 @@ title: Best Scuba Diving Spots in Indonesia
 permalink: /best-scuba-diving-spots-in-indonesia.html
 author: Ivan Tumpak
 categories:
-- Journal
+- journal
 ---
 
 <img class="post-feat-img img-responsive" src="https://i.ytimg.com/vi/NoMHMxnAHW0/maxresdefault.jpg" />
