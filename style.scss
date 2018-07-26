@@ -1215,6 +1215,15 @@ article.post{
 	}
 }
 
+/* directory page */
+#directory--page{
+	ul{
+		li{
+			list-style:none;
+		}
+	}
+}
+
 .cta--in--page{
 	font-size: 24px;
 	background: yellow;
