@@ -27,8 +27,6 @@ Mandolin dive site is a wall structure going profound down with large steps. Und
 
 <a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">Need to go there? Chat with us</a>
 
-## Bottom Line
-
 The dive sites around Bunaken are slopes, or wall surfaces. Briefings instruct divers to descend to established maximum depth prior to going reef remaining or reef right, depending on the current. Not all of the drops are large, though, and lots of chiseled, sandy areas |get this to a great training surface for new divers, too.
 
 <a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">Wait no more, you only live once! Chat with us</a>
