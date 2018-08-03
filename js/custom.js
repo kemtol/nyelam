@@ -52,7 +52,9 @@ jQuery(window).on('load', function () {
 	if (typeof window.orientation == 'undefined'){
 		$("a[href*='whatsapp']").each(function() {
 			$(this).attr("href", $(this).attr('href').replace(/\bapi\b/g, 'web'));
+			$(this).attr("href", $(this).attr('href').replace(/\b{{site.wa}}\b/g, 'tes'));
 		});
 	}
-	console.log(browser);
+	//console.log(browser);
+	
 });
