@@ -57,6 +57,7 @@ jQuery(window).on('load', function () {
 	$("a[href*='whatsapp']").each(function() {
 		//$(this).attr("href", $(this).attr('href').replace(/\bsitewa\b/g, 'tes'));
 		console.log($(this).attr('href').replace(/\bsitewa\b/g, 'tes'))
+		$(this).attr("href", $(this).attr('href').replace(/\bsitewa\b/g, 'tes'));
 	});
 	//console.log(browser);
 	
