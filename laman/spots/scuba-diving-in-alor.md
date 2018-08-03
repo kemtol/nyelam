@@ -19,9 +19,13 @@ It's located in between the islands of Kepa and Pura, named by Indonesian diving
 
 It is a good slope protected by beautiful hard corals and sandy areas, the shallow areas protected in huge colonies of branching corals, and the reef slopes involve some of very most expansive areas plating coral. Because of the slope, it´s a superb for the divers of most levels. The sea creatures cleaning the site for moray eels, sailfin tangs, batfish so when there's a current, huge sets of red-tooth triggerfish.
 
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">Need to go there? Chat with us</a>
+
 ## 3. Mandolin
 
 Mandolin dive site is a wall structure going profound down with large steps. Underneath the wall structure you'll find so many small caves where many fishes live. The existing part is, the strong attracting of large levels trevally fishes, big barracuda, snappers, unicornfish, triggerfish and surgeonfish are normal. The common depth for the dives here's about 20m & maximum depth until 40m. Awareness range averages 20m.
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">Need to go there? Chat with us</a>
 
 ## Bottom Line
 
