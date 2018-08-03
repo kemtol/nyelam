@@ -29,4 +29,4 @@ Mandolin dive site is a wall structure going profound down with large steps. Und
 
 ## Bottom Line
 
-The dive sites around Bunaken are slopes, or wall surfaces. Briefings instruct divers to descend to established maximum depth prior to going reef remaining or reef right, depending on the current. Not all of the drops are large, though, and lots of chiseled, sandy areas |get this to a great training surface for new divers, too.
+Mandolin dive site is a wall structure going profound down with large steps. Underneath the wall structure you'll find so many small caves where many fishes live. The existing part is, the strong attracting of large levels trevally fishes, big barracuda, snappers, unicornfish, triggerfish and surgeonfish are normal. The common depth for the dives here's about 20m & maximum depth until 40m. Awareness range averages 20m.
