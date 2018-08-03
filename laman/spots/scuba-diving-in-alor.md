@@ -6,36 +6,25 @@ permalink: /scuba-diving-alor.html
 call_ajax: services-alor.html
 ---
 
-## Why Scuba Diving in Bali?
+## Top 3 Spot in Alor
 
-<img class="img-responsive" src="{{site.url}}/images/spots/diving-in-bali.jpg" />
+Alor is the largest island in the Alor Archipelago it is located at the eastern Lesser Sunda Islands that runs through southeastern Indonesia. Diving in Alor is like opening the lid of treasure trove, and it shows us the pristine water around Alor filled with variety of sea creatures.
 
-Check all the best dive spot in Bali. These best diving spots in Bali are the place you can find the island's submerged excellence. Bali itself has developed into the major league of diving game. Each of Bali diving spots have something unique to offer, while suitable for any kind of diving level. Generally, best time to go diving in Bali is around the drier months. Which are in April and November. 
-
-Unmistakable features incorporate wrecks with a touch of history to tell. Far reaching counterfeit 'biorock' reefs offer an exceptional submerged photograph operation. They highlight depressed patio nurseries, statues and sanctuaries congested with ocean fans and abounding with tropical fish. The best plunge locales in Bali likewise let you witness uncommon species. Substantial manta beams, slippery maritime sunfish or 'mola-mola', reef sharks, ocean turtles and little dwarf seahorses are among them.
+## 1. Kal's Dream
+It's located in between the islands of Kepa and Pura, named by Indonesian diving poineer Kal Muller in the early 1990's. The top of the seamount is a rock pinnacle which peaks at just 5 meters. Once you have descend into the shelter slope, the current slackens off but can still be a powerful force. There is 12 meters plateau around the southern trip of the pinnacle which is combination of rocky boulders and formation cover with algae, plate, and corals. Look out the variety of moray, eels, reef octopus, nudibranchs, and shrimp.
 
 <a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">Need to go there? Chat with us</a>
 
-## When to Dive Bali
+## 2. Fukui Point
 
-What makes Bali extraordinary is you can dive all years around. Blustery season keeps going from December to March. From April to November, you'll have the most obvious opportunity for pelagics.
+It is a good slope protected by beautiful hard corals and sandy areas, the shallow areas protected in huge colonies of branching corals, and the reef slopes involve some of very most expansive areas plating coral. Because of the slope, it´s a superb for the divers of most levels. The sea creatures cleaning the site for moray eels, sailfin tangs, batfish so when there's a current, huge sets of red-tooth triggerfish.
 
-### Rainy Season
+## 3. Mandolin
 
-<img class="img-responsive" src="https://www.intrepidtravel.com/sites/intrepid/files/styles/low-quality/public/elements/product/hero/TIKI_Indonesia_Rice-terrace-walk_traveller_584283820.jpg" />
+Mandolin dive site is a wall structure going profound down with large steps. Underneath the wall structure you'll find so many small caves where many fishes live. The existing part is, the strong attracting of large levels trevally fishes, big barracuda, snappers, unicornfish, triggerfish and surgeonfish are normal. The common depth for the dives here's about 20m & maximum depth until 40m. Awareness range averages 20m.
 
-Dec to March theoretically considered rain season. Rainwater is merely marginally more probable of these weeks than entire year around. The water temps during rainy season become a lttle bit warmer, indicating there are fewer pelagic varieties near to the island. Visibility can be negatively influenced.
+## Bottom Line
 
-Having said that, conditions remain great for scuba during rainy season. Furthermore, there are fewer divers surrounding the island from Dec to March so this means you will discover the best price at the moment.
-
-### Dry Season
-
-<img class="img-responsive" src="https://seasonsyear.com/sites/default/files/images/asia/Indonesia-summer-1.jpg" />
-
-All of those other year, from Apr to November, is known for dry season. Take into account that it still rain occasionally for these months.
-
-Dry season means a rise in pelagic types and visibility. Specifically, June to Sept are the best wonderful months for spotting Mola Mola and variant kind of sharks. Mantas have a tendency to visit somewhat earlier. Apr to June will be the best a few months for those elegant creatures.
-
-Finally, Apr to July and Oct to November are exquisite for Tulamben and wreck diving. Awareness during these calendar months often tops 130 toes (40 meters)!
+The dive sites around Bunaken are slopes, or wall surfaces. Briefings instruct divers to descend to established maximum depth prior to going reef remaining or reef right, depending on the current. Not all of the drops are large, though, and lots of chiseled, sandy areas |get this to a great training surface for new divers, too.
 
 <a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">Wait no more, you only live once! Chat with us</a>
