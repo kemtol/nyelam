@@ -1,3 +1,7 @@
+---
+permalink: /ajax/services-bali.html
+---
+
 <div class="container">
 	<div class="deals-list">
 		<div class="row">
