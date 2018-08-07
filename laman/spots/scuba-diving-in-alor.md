@@ -12,7 +12,7 @@ Alor is the largest island in the Alor Archipelago it is located at the eastern 
 
 ## 1. Kal's Dream
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/KaoVv905PCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/KaoVv905PCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 It's located in between the islands of Kepa and Pura, named by Indonesian diving poineer Kal Muller in the early 1990's. The top of the seamount is a rock pinnacle which peaks at just 5 meters. Once you have descend into the shelter slope, the current slackens off but can still be a powerful force. There is 12 meters plateau around the southern trip of the pinnacle which is combination of rocky boulders and formation cover with algae, plate, and corals. Look out the variety of moray, eels, reef octopus, nudibranchs, and shrimp.
 
@@ -20,7 +20,7 @@ It's located in between the islands of Kepa and Pura, named by Indonesian diving
 
 ## 2. Fukui Point
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/cdDo6IMWjew" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/cdDo6IMWjew" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 It is a good slope protected by beautiful hard corals and sandy areas, the shallow areas protected in huge colonies of branching corals, and the reef slopes involve some of very most expansive areas plating coral. Because of the slope, it´s a superb for the divers of most levels. The sea creatures cleaning the site for moray eels, sailfin tangs, batfish so when there's a current, huge sets of red-tooth triggerfish.
 
@@ -28,7 +28,7 @@ It is a good slope protected by beautiful hard corals and sandy areas, the shall
 
 ## 3. Mandolin
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/-SRkJQLL6KY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/-SRkJQLL6KY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Mandolin dive site is a wall structure going profound down with large steps. Underneath the wall structure you'll find so many small caves where many fishes live. The existing part is, the strong attracting of large levels trevally fishes, big barracuda, snappers, unicornfish, triggerfish and surgeonfish are normal. The common depth for the dives here's about 20m & maximum depth until 40m. Awareness range averages 20m.
 
