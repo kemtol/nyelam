@@ -13,7 +13,7 @@ is_directory: true
   * [Tulamben](/scuba-diving-bali.html)
 * **East Nusa Tenggara**
   * [Komodo](/scuba-diving-komodo.html)
-  * [Alor](//scuba-diving-alor.html)
+  * [Alor](/scuba-diving-alor.html)
 * **Papua**
   * [Raja Ampat](/scuba-diving-rajaampat.html)
 
