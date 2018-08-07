@@ -12,7 +12,7 @@ Indonesia is well-known for its beautiful nature with more than 17.000 islands b
 
 ## The most famous one is
 
-<img src="https://www.wisatalah.com/wp-content/uploads/2017/02/9-Tempat-Snorkeling-Terbaik-Di-Indonesia-714x450.jpg" class="img-responsive post-child-img" />
+<img src="https://3.bp.blogspot.com/-8rpTUDYNNG4/WKxrp5OxzJI/AAAAAAAACYI/4x8atH2kgM8OOcKZV5QBZ-qsoTy_YUaLQCLcB/s1600/Snorkeling%2BMurah%2Bdi%2Bbali.jpg" class="img-responsive post-child-img" />
 
 In Bali, you can visit Nusa Penida, a new interesting place for snorkeling with a quiter atmosphere. It has three attractive spot: Manta Point, Gamat Bay and Crystal Bay. You will see various stringrays in Manta Point, they have diverse motives and wingspan more than 3 m. While in Gamat Bay, it is famous with its unique coral reef, sharks and turtles. The third spot is Crystal Bay with its well known underwater cave that will lead you to bat cave hole.
 
