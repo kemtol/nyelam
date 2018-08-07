@@ -3,8 +3,7 @@ layout: post
 title: Snorkeling in Indonesia
 permalink: Why Snorkeling in Indonesia Must Be One of Your Bucket List?
 author: Kemal Wiryawan:
-categories:
-- journal
+categories: journal
 ---
 
 Indonesia is well-known for its beautiful nature with more than 17.000 islands between Asia and the Pacific Ocean. With other words, it is Earth's largest archipelago. It is best to visit Indonesia for snorkeling between May and October in the dry season. Most tourists have known Bali as the most popular snorkeling destination in Indonesia, but our country has more than that. Indonesia has other destinations which are as amazing as Bali or even more marvelous.
