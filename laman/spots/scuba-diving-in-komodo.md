@@ -22,6 +22,8 @@ When planning the trip, many factors play an important role. The main factor is 
 
 The tour may begin or result in Bali or Maumere and mind through the center of the Komodo Country wide Park. More often than not is put in around the hawaiian islands of Banta, Komodo and Rinca. Additionally you go to the smaller islands of Gili Lawa Laut and Tatawa Besar. The dispatch also may visit the island of Moyo and Saneang.
 
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">Need to go there? Chat with us for all in package with tickets</a>
+
 ## What will you found in Komodo
 
 Why is Komodo National Playground among the finest places on the planet to dive would be that the waters here are a variety of different systems of drinking water: the Indian Sea and the Flores Sea. Which means that there's a huge variety of sea life and corals that can live and prosper in this field.
@@ -35,6 +37,8 @@ whale sharks, manta rays, devil rays, hammerheads, dugongs, white and dark-color
 ### The OK one
 
 Pygmy seahorse, hairy frogfish, nudibranchs, ghost tube fish, blue engagement ring octopus, flamboyant cuttlefish. You can even be prepared to see a great deal of schooling seafood, sweetlips, batfish, cause fish, angel seafood, clown seafood, scorpion seafood, lion seafood etc. Addititionally there is tonnes of wonderfully colored hard and smooth corals. Whether you like drift dives, macro dives, or maybe checking out coral reefs, Komodo Country wide Recreation area has dive sites for everybody.
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">I know you dying to know how much it cost, chat us now!!</a>
 
 ## What to expect for diving in Komodo
 
@@ -53,4 +57,6 @@ Do not miss the beauty of hundreds of bats flying at sunset on Kalong Island and
 Tourists can come to Komodo National Park using Sriwijaya, Air Asia, Kalstar, or Lion Air airlines to Labuan Bajo. From Labuan Bajo airport, you can rent a car or take an angkot to the dock area. In Labuan Bajo there are various places to stay, from backpacker style like Hotel Gardena, to 4 Star Resort like The Jayakarta Suites. Tourists can also choose to stay at Kanawa Island, an island located not far in front of Labuan Bajo.
 
 Besides Komodo National Park, there are other interesting locations around Labuan Bajo, including Batu Cermin and Cunca Wulang Waterfall. For those who have more time, can try to do a roadtrip along the island of Flores. Many interesting tourist locations to visit such as Riung with 17 islands, Bena Village with its ikat weaving, the village above the Wae Rebo cloud, Kelimutu three-color lake, and various other destinations.
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">Tips for foreigner, know local people. And we are ready to help you, just chat us now</a>
 
