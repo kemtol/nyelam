@@ -5,7 +5,7 @@ permalink: /eco-trip-pulau-harapan.html
 author: Calista Tambunan
 ---
 
-<img src="https://paradisotraveling.com/wp-content/uploads/2017/07/pulau-harapan-kepulauan-seribu.jpg" class="post-feat-img img-responsive" />
+<img src="/images/banner/join-eco-trip-pulau-harapan.jpg" class="post-feat-img img-responsive" />
 
 Living in Jakarta as the capital city of Indonesia with its hustle and bustle is guaranteed to cause fatigue and exhaustion to the society. A getaway to nature tourism is certainly a solution to get out of that saturation. But, which destination is affordable to go to for a short escape? In terms of distance, price, and nature atmosphere, Pulau Harapan can be your main and first choice. It is located in Kepulauan Seribu, 3 hours straight from Muara Angke, Jakarta, taken with a speedboat or traditional boat. 
 
