@@ -2,7 +2,7 @@
 layout: post
 title: Why Snorkeling in Indonesia Must Be One of Your Bucket List?
 permalink: /best-spot-to-snorkeling-in-indonesia.html
-author: Kemal Wiryawan
+author: Calista Tambunan
 categories: journal
 ---
 
