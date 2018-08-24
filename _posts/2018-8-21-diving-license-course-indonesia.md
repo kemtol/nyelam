@@ -3,6 +3,7 @@ layout: post
 title: Getting Your First Diving License in Indonesia
 permalink: /diving-license-course-in-indonesia.html
 author: Calista Tambunan
+categories: journal
 ---
 
 <img src="https://i.imgur.com/ORp6bUR.jpg" class="post-feat-img img-responsive" />
