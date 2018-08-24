@@ -3,6 +3,7 @@ layout: post
 title: 5 Spot To Snorkeling In Bali
 permalink: /5-spot-to-snorkeling-in-bali.html
 categories: journal
+author: Vika Astri
 ---
 
 <img src="https://www.maxpixel.net/static/photo/1x/Holiday-Bright-Snorkeling-Diving-Blue-Sea-Water-1551757.jpg" class="post-feat-img img-responsive" />
