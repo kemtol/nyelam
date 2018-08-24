@@ -25,5 +25,26 @@ Indonesia have plenty of official diving organizations that are trusted and prov
 For several tips, it is better to prepare your dive trip after you got your diving license. This must be useful to get you experienced diving by your own without the instructor and it can develop your diving skills. It is very unfortunate if you wasted such a lot money and time to get the license without using it. You should also buy the basic gears like mask, a pointer, boots, and a dive computer just in case for safety. For the best period, dive at least every once in 4 months, to keep your ability to remain smooth under the sea.
 
 After sharing our tips and knowledge, we hopefully this will increase your enthusiasm to learn to dive. So, are you ready to become an expert and experienced diver in this wondrous country? We’re looking forward from you!
-	
-<a href="https://web.whatsapp.com/send?phone=6281289999522&amp;text=Hi,%20E-Nyelam%20i%20need%20info%20for%20diving%20course" class="cta--in--page">Get yours now! Chat with us for special deals..</a>
+
+## Terms To Get Your Diving License
+
+Must be a person whoa are not a thallasophobia (underwater phobia) and if you are not able to swim you have to pratice. It´s not about swim like a pro, as long as you comfortable without any panicking and enjoy to swim so you can follow the next step.
+Make sure the condition of your body healty. We suggest to concul to the doctor to make sure there is nothing in your body that can harm you when doing the training. 
+
+Last but not least please be prepare the range cost if you want to do the dive course. Costs that need to be prepared range Rp. 4.000.000
+
+## Indonesia Diving Course
+
+If you are interested, please contact our partners below. And be ready to your diving journey ahead.
+
+### Global Dive Center
+
+Founded and estabilished on Oct 2003 is full range training start from snorkeling, diving course, to underwater photography, full support of scuba diving equipment. It´s located on Kalibata, South Jakarta
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&amp;text=Hi,%20E-Nyelam%20i%20need%20info%20for%20diving%20course" class="cta--in--page">Contact Global Diving Indonesia! Chat with us for special deals..</a>
+
+### Dodoku Dive Center 
+
+Offer dive courses for you who want to dive in Ternate. This dive center are developing for enthusiatic and conserve the sea for our next generation. 
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&amp;text=Hi,%20E-Nyelam%20i%20need%20info%20for%20diving%20course" class="cta--in--page">Contact Dodoku Diving Center! Chat with us for special deals..</a>
