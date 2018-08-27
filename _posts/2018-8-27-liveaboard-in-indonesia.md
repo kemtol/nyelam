@@ -3,9 +3,9 @@ layout:post
 title: Liveaboard in Indonesia, A Unique Adventure
 author: Ivan Tumpak
 permalink: /liveaboard-in-indonesia.html
-categories:
-- journal
+categories: journal
 ---
+
 <img class="img-responsive feat-post-img" src="/images/spots/liveaboard-in-indonesia.jpg" />
 
 Simply, Liveaboard means a person who lives on a boat, or a boat suitable to live on. However, in diving, liveaboard means a scuba diving purposely-build boat, or an existing vessel that is offered to diving trips which usually last longer than one night. The capacity of the boats is varied; it could host between 12 and 30 divers, but those who want to get private one, it could host less than that.
