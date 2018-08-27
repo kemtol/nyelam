@@ -1161,6 +1161,10 @@ article.post{
 		position: relative;
 		left: -5rem;
 	}
+	.post-child-img{
+		width:calc(100% - 10rem);
+		margin:auto;
+	}
 } 
 
 /* service page */
