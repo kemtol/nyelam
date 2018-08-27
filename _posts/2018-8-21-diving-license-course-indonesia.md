@@ -39,11 +39,15 @@ If you are interested, please contact our partners below. And be ready to your d
 
 ### Global Dive Center
 
+<img src="https://i.imgur.com/bxutucg.jpg" class="img-responsive post-child-img" />
+
 Founded and estabilished on Oct 2003 is full range training start from snorkeling, diving course, to underwater photography, full support of scuba diving equipment. It´s located on Kalibata, South Jakarta
 
 <a href="https://web.whatsapp.com/send?phone={{site.wa}}&amp;text=Hi,%20E-Nyelam%20i%20need%20info%20for%20diving%20course" class="cta--in--page">Contact Global Diving Indonesia! Chat with us for special deals..</a>
 
 ### Dodoku Dive Center 
+
+<img src="https://i.imgur.com/I9eVDqh.jpg" class="img-responsive post-child-img" />
 
 Offer dive courses for you who want to dive in Ternate. This dive center are developing for enthusiatic and conserve the sea for our next generation. 
 
