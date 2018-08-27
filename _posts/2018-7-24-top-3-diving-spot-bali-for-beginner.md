@@ -29,7 +29,7 @@ Underwater temps: average 26-28 diplomas Celsius.
 
 Nusa Lembongan is a destination for diving. There is some good spot for dive at Nusa Lembongan. If you like to experience to see Mantas up close and personal, then this is the place, Manta Bay. On a good day you could be surrounded by Mantas. If you would like to experience Mantas up close and personal then this is the place. On a good day you could be surrounded by up to twenty feeding Mantas.
 
-<a href="https://web.whatsapp.com/send?phone=6281285774100&amp;text=Hi,%20E-Nyelam" class="cta--in--page">Chat us if you need further info to dive in Nusa Lembongan</a>
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">Chat us if you need further info to dive in Nusa Lembongan</a>
 
 ### Amed
 
@@ -37,15 +37,15 @@ Nusa Lembongan is a destination for diving. There is some good spot for dive at 
 
 The diving at Amed Dive Center was very nice.  When you dive at Amed, you will see people admire about this dive sites. Amed has a huge variety of dive locations including dropoffs, magnificent reefs. Amed is just around the corner from Tulamben, so is a great place for overnight trips and diving for all experience levels.
 
-<a href="https://web.whatsapp.com/send?phone=6281285774100&amp;text=Hi,%20E-Nyelam" class="cta--in--page">Chat us if you need further info to scuba dive in Amed</a>
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">Chat us if you need further info to scuba dive in Amed</a>
 
 ### Tulamben
 
-<img class="post-child-img img-responsive" src="https://indotrip.com/wp-content/uploads/2016/12/tulamben-dive-bubble.jpg" />
+<img class="post-child-img img-responsive" src="https://i.imgur.com/KASfDLo.jpg" />
 
 Also called Tulamben Wall, this spot is a drop off. Weak current and a good visibility of 10 to 30 meters. The Tulamben drop off is one of the most popular sites of Bali. Descending from 3 meters to 80 meters depth, it has been formed by the lava river of the Mount Agung of 1963. We can see black tip sharks, dog tooth tuna, pygmee sea horses, eagle rays, napoleons and giant parrot fish, a lot lionfish.
 
-<a href="https://web.whatsapp.com/send?phone=6281285774100&amp;text=Hi,%20E-Nyelam" class="cta--in--page">How to get there? chat us if you want</a>
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi,%20E-Nyelam" class="cta--in--page">How to get there? chat us if you want</a>
 
 ## Conclusion
 
