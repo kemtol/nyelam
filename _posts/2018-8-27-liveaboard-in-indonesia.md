@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Liveaboard in Indonesia, A Unique Adventure
 author: Ivan Tumpak
 permalink: /liveaboard-in-indonesia.html
