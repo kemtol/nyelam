@@ -6,7 +6,7 @@ permalink: /liveaboard-in-indonesia.html
 categories: journal
 ---
 
-<img class="img-responsive feat-post-img" src="/images/spots/liveaboard-in-indonesia.jpg" />
+<img class="img-responsive post-feat-img" src="/images/spots/liveaboard-in-indonesia.jpg" />
 
 Nowadays, many people are interested in vacationing on the island. In addition, many people enjoy their vacation by going diving or snorkeling on an island, and enjoy their time on luxury liveaboard. Before that, we must know the true meaning of liveabord.
 
@@ -21,19 +21,19 @@ Unfortunately, not every dive destination is a liveaboard destination. However, 
 
 ## 1. RAJA AMPAT LIVEABOARD
 
-<img src="https://i.imgur.com/KDjeA4d.jpg" class="img-responsive child-post-img" />
+<img src="https://i.imgur.com/KDjeA4d.jpg" class="img-responsive post-child-img" />
 
 Raja Ampat boasts a wide range of marine flora and fauna, making it a world-class dive destination and one of the best dive spots in the planet. A liveaboard will take you to the best dive sites and enrich your experience, Raja Ampat’s best season is during the months of October, November and December. It will take you to Eagle Rock, Atlas Pearl Farm, and Star Lagoon at Pianemo Island.
 
 ## 2. KOMODO ISLAND LIVEABOARD
 
-<img src="https://i.imgur.com/6GwAyrj.jpg" class="img-responsive child-post-img" />
+<img src="https://i.imgur.com/6GwAyrj.jpg" class="img-responsive post-child-img" />
 
 Diving with Manta Rays is best in December, January and February. Phinisi in Komodo Island can accommodate up to six people for 5 days trip. Some communities and local travel agencies usually make liveaboard trip as well. Kapan Pulang, a travel agent headquartered in Bali, arranges 5 days liveaboard trip in Komodo with affordable price. In Komodo it is simple for liveaboards to cover a vast variety of dive sites. Most of the further away dive areas, such as Padar Island and the south of Rinca and Komodo Islands are only visited by liveaboards.
 
 ## 3. MALUKU EXPLORER LIVEABOARD
 
-<img src="https://i.imgur.com/5QgMhHz.jpg" class="img-responsive child-post-img" />
+<img src="https://i.imgur.com/5QgMhHz.jpg" class="img-responsive post-child-img" />
 
 Exploring Halmahera, the largest island of Northen Maluku after a comprehensive refurbishment and renovation finally it relaunched, the turns usually start in Labuha or Ternate. The comfortable liveaboard is spoiling its guests since the summer of 2011 in South Halmahera. The dive sites called Manta Bay in here you will see shark and manta ray, the best season for this amazing creatures is September / October.
 
