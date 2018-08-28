@@ -6,7 +6,7 @@ categories: journal
 author: Vika Astri
 ---
 
-<img src="https://www.maxpixel.net/static/photo/1x/Holiday-Bright-Snorkeling-Diving-Blue-Sea-Water-1551757.jpg" class="post-feat-img img-responsive" />
+<img src="https://i.imgur.com/cRr1Owi.jpg" class="post-feat-img img-responsive" />
 
 ## Where to Snorkel in Bali
 
