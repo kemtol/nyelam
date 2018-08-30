@@ -6,7 +6,7 @@ categories: journal
 author: Vika Astri
 ---
 
-<img class="feat-post-img" src="https://cdn.pixabay.com/photo/2017/05/16/07/33/scuba-diving-2317126_960_720.jpg" />
+<img class="img-responsive post-feat-img" src="https://cdn.pixabay.com/photo/2017/05/16/07/33/scuba-diving-2317126_960_720.jpg" />
 
 Basically, shipwreck meaning the destruction of a ship by sinking that occurred during the war, it was one of the recorded history. Shipwreck in Indonesia is used as an underwater beauty spot for Indonesian divers who want to enjoy the features of a shipwreck that has sunk for years on the seabed.
 
@@ -16,7 +16,7 @@ Unexpectedly, Indonesia became one of the sinking places for shipwrecks during t
 
 ## 1. USAT LIBERTY in Tulamben, Bali.
 
-<img class="child-post-img" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/USAT_Liberty_Wreck_Dive.jpg" />
+<img class="img-responsive post-child-img" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/USAT_Liberty_Wreck_Dive.jpg" />
 
 The USAT Liberty shipwreck is the glory crown of Tulamben diving, that is one reason why divers come to Tulamben. It used to carry parts of the railroad tracks and rubber needed for war. Liberty was built as a 120-meter cargo ship equipped with two weapons during World War II. In January 1942, the ship was torpedoed by a Japanese submarine which was temporarily anchored off the coast of Lombok. In 1963, it was still grounded on the beach at Tulamben when Mount Agung erupted.
 
@@ -26,7 +26,7 @@ Take your time on the wreck because there is a large amount of macro life. Vario
 
 ## 2. DUKE OF SPARTA in Ambon Bay, Maluku.
 
-<img class="child-post-img" src="http://morotai.indonesia-tourism.com/images/wreck_diving.jpg" />
+<img class="img-responsive post-child-img" src="http://morotai.indonesia-tourism.com/images/wreck_diving.jpg" />
 
 The SS Duke of Sparta, also known as the SS Aquila is a cargo ship built by William Gray and Organization in Teeside, England in 1940. It is onehundred thirty five meters long, over seventeen meters wide. In 1958, whilst moored in Ambon Bay, Maluku, it was targeted as part of a covert mission by the CIA and bombed by an unmarked Douglas B 26 Invander bomber piloted by Allen Père. However, the Duke of Sparta was unknown also for over 50 was called The Ambon Wreck, it must be one of the most saved legacies in Indonesia.
 
@@ -36,7 +36,7 @@ Many various types of fish in this wreck, such as batfish, huge trumpetfish, fus
 
 ## 3. SOPHIE RICKMERS WRECK in Weh Island, Aceh
 
-<img class="child-post-img" src="https://i.ytimg.com/vi/_w_gCDnzM2Q/maxresdefault.jpg" />
+<img class="img-responsive post-child-img" src="https://i.ytimg.com/vi/_w_gCDnzM2Q/maxresdefault.jpg" />
 
 Sophie Rickmers is a huge cargo steamship that was built in Germany in 1920. During the Second World War, the "Sopie Rickmers" was part of 5 ships that were seized by the Dutch on May 10, 1940 around Weh Island. This ship is used to transport valuables such as tin, large ceramic plates, and others. Sophie Rickmers who was being repaired on Weh Island became the target of the British and the Dutch. The crew then chose to sink Sophie's ship instead of handing it over to the Dutch East Indies.
 
