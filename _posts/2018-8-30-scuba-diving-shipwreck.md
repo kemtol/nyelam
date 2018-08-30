@@ -6,7 +6,7 @@ categories: journal
 author: Vika Astri
 ---
 
-<img class="img-responsive post-feat-img" src="/images/post/USAT_Liberty_Wreck_Dive.jpg" />
+<img class="img-responsive post-feat-img" src="https://www.baliscuba.com/wp-content/uploads/2017/05/liberty-shipwreck-bali-1.jpg" />
 
 Basically, shipwreck meaning the destruction of a ship by sinking that occurred during the war, it was one of the recorded history. Shipwreck in Indonesia is used as an underwater beauty spot for Indonesian divers who want to enjoy the features of a shipwreck that has sunk for years on the seabed.
 
