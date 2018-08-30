@@ -6,7 +6,7 @@ categories: journal
 author: Vika Astri
 ---
 
-<img class="img-responsive post-feat-img" src="https://cdn.pixabay.com/photo/2017/05/16/07/33/scuba-diving-2317126_960_720.jpg" />
+<img class="img-responsive post-feat-img" src="/images/post/USAT_Liberty_Wreck_Dive.jpg" />
 
 Basically, shipwreck meaning the destruction of a ship by sinking that occurred during the war, it was one of the recorded history. Shipwreck in Indonesia is used as an underwater beauty spot for Indonesian divers who want to enjoy the features of a shipwreck that has sunk for years on the seabed.
 
