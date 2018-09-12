@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why May-October is the Best Time for Diving in Tulamben?
-author: Vika Astri
+author: Calista Tambunan
 permalink: /best-time-to-scuba-diving-in-tulamben.html
 categories: journal
 ---
