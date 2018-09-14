@@ -16,7 +16,7 @@ If you are wondering when to visit **Tulamben**, May until October is the perfec
 ### Visibility 
 Somehow, visibility can be reduced and drop during the rainy season, so you can’t really see anything down there. Luckily, visibility is best during these months of dry season, and divers can see an increase in pelagic species. Even on good days the visibility can climaxing at 120 ft or 40 meters!
 
-#### What to See
+### What to See
 From July until October, **Tulamben**, especially the wreck, is very crowded with divers. Make sure this won’t prevent you from a sunrise dive on *the Liberty* to have it all to yourself! It is not only an amazing wreck dive, but it is also a truly living reef with its history. You should go diving earlier in the morning before 8 am, so it will be less crowded, and you can enjoy it better. What to see more other than *the Liberty wreck*? *Coral Garden* can be in you to-do-list. It offers you to see rare corals and fish you can never find in other places. The depth and location make it as a popular spot to do night dive and snorkeling. 
 
 <a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi%20E-Nyelam,%20i%20need%20info%20for%20dive%20spot" class="cta--in--page">Need a dose of adventure? Chat with us</a>
