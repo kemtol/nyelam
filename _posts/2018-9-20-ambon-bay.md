@@ -2,9 +2,11 @@
 layout: post
 author: Vika Astri
 title: Get To Know Ambon Bay in Maluku And Best Spot To Dive
-permalink: /diving-maluku-ambon-bay.html.
+permalink: /diving-maluku-ambon-bay.html
 categories: journal 
 ---
+
+<img src="https://i.imgur.com/Cjk28Ia.jpg" class="img-responsive post-feat-img" />
 
 Maluku offer to the divers a range of options, one of the alternative is muck diving in Ambon Bay. Ambon is the capital of Indonesian province of Maluku, Ambon is a centre of tourism, and education for the Maluku destinations region. Diving in Ambon Bay is one of the activities which can be loved, it's like a heaven to the divers who would like to see an extraordinary sightseeing. The marine life in Ambon Bay doesn't disappoint and some of Indoensia's most unusual creatures can be found here. To get to Ambon is not hard to access, with direct plane from Jakarta, there many liveaboard will pick-up and drop off guests in Ambon who are merging a resort stay with a liveaboard diving trip.
 
