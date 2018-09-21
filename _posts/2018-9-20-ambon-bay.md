@@ -22,3 +22,6 @@ This great site is quite deep, with the top of the deck starting 15 meters under
 This site is situated in a small harbor with accompanying jetty on the east bank of the Ambon Bay almost directly across the water from the Maluku Divers Resort. There is good coral density sloping steeply down to sand at 20 meters. Fish life is much more abundant here and schooling fish are not uncommon. The coral section is a good place for range of shrimps. Always be careful under the jetty, stopping under the jetty can be done, but a little worrying because on top there are boats that are stopping at the harbor.
 
 Diving in the Bay of Ambon is one of the lists to do when you are in Maluku, when the best season of visibility is in the Bay of Ambon, around 5 to 20 meters depending on the weather. Diving is not recommended from July til September due to the rainy season, but March until June is the best season for clear visibility. Marine life will not disappoint, surprising creatures will be found here like many species of frogfish, squid, octopus, shrimp, and flamboyant cuttlefish.
+
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi%20E-Nyelam,%20i%20need%20info%20for%20dive%20spot" class="cta--in--page">Need a dose of adventure? Chat with us</a>
