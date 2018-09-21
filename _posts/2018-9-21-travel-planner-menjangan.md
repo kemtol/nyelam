@@ -6,6 +6,8 @@ permalink: /diving-menjangan-pumetaran.html
 categories: journal
 ---
 
+<img src="https://i.imgur.com/aRNPEkb.jpg" class="img-responsive post-feat-img" />
+
 Pemuteran is located in the north-west Bali, is a small village and rarely visited. It is located next to Bali Barat Nasional Park, even this place is non-touristic but suprisingly it’s nearby with Menjangan Island. Pemuteran village is quiet, it is laid back and has everything you need for relaxing. To go to Pemuteran, there is a place called Lovina or Lovina Beach you can stay there after that to proceed your journey it takes 45 until one hours to get to Pemuteran.
 
 Menjangan Island located is in the north-west of Bali it is a small island it has been part of the Bali Barat Nasional Park . Basiclly, Menjangan in Indonesian means "Deer" the name was given by the local populace observing wild deer herds swimming to the island every spring. To get to Menjangan, from Lovina it takes one and a half hour with boat to reach Menjangan.
