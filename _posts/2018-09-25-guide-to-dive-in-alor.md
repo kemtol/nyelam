@@ -28,3 +28,5 @@ Currently the newest and the most comfortable hotel in Alor, consists of 3 floor
 
 **Alor Divers**
 It is a resort located in Pantar Island, with the number of guests are limited to 12 persons to get the hospitable services. It consists of 7 traditional beach bungalows, full board basis. The minimum stay is 4 nights with Rp 12.000.000,00 price for divers and Rp 6.000.000,00 price for non-divers. 
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi%20E-Nyelam,%20i%20need%20info%20for%20dive%20spot" class="cta--in--page">Need a dose of adventure? Chat with us</a>
