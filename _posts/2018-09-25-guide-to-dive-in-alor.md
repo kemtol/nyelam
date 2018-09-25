@@ -25,5 +25,6 @@ Here are the lists of the best accommodation where you can stay at if you’re c
 
 **Pulo Alor Hotel**
 Currently the newest and the most comfortable hotel in Alor, consists of 3 floors. It has the most complete facilities such as AC, Wifi, TV, water heater, and including breakfast. The price range is between Rp 550.000,00 for standard rooms and Rp 850.000,00 for private rooms. 
+
 **Alor Divers**
 It is a resort located in Pantar Island, with the number of guests are limited to 12 persons to get the hospitable services. It consists of 7 traditional beach bungalows, full board basis. The minimum stay is 4 nights with Rp 12.000.000,00 price for divers and Rp 6.000.000,00 price for non-divers. 
