@@ -6,7 +6,7 @@ permalink: /guide-to-dive-in-alor.html
 categories: journal
 ---
 
-<img src="https://i.imgur.com/hnBP5xg.jpg" class="img-responsive post-feat-img" />
+<img src="https://i.imgur.com/Hh6qGlE.jpg" class="img-responsive post-feat-img" />
 
 *Alor Island* is a remote and undeveloped archipelago located in Flores, a part of East Nusa Tenggara province. As a group of islands in the Lesser Sunda including Bali and Lombok, the main island is still Alor. With Kalabahi as the one and only town, there are airport and harbor there if you want to go to Alor by air or sea. If you choose to go with airplane, first you must transit in Kupang to go through another 40 minutes to Kalabahi. But if you want to go with boat, they offer a Pelni ferry every once in two weeks from Kupang to Kalabahi for around 21 hours. 
 
