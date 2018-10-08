@@ -1,3 +1,11 @@
+---
+layout: post
+title: Getting to Know Mooring Buoy
+author: Calista Tambunan
+permalink: /mooring-buoy.html
+categories: journal
+---
+
 Do you ever recognize that the existence of our coral reefs in Indonesia is getting decreased and damaged? Not only the coral reefs, the marine life like fish and its surroundings are also threatened. This matter is caused by ships that often park and throw anchors carelessly, so now there is *Mooring Buoy* provided to anticipate it. *Mooring Buoy* is basically a floating mooring that is used for mooring ships and as a sign or mark to drop the anchors. Therefore, the *Mooring Buoy* holds the ship from shifting due to waves, currents or wind. It has the heaviest weight than other types of buoy.
 ## What are the characteristics of Mooring Buoy?
 The color of *Mooring Buoy* is usually bright to make it easy to see remotely. But to close the possibility of not being seen at night, it has a lamp with a solar cell that stays on at night. It is equipped with sinker to put on the bottom of the sea, and chain to connect the sinker with shackle. *Mooring Buoy* helps ships to get moored properly and to avoid the loss or damage of underwater biota. Moreover, it is used as a warning sign for ships if the depth of the sea is too shallow, so the ships won’t get closer. Large vessels that want to carry out loading and unloading activities but cannot approach the dock are also helped by *Mooring Buoy*. 
