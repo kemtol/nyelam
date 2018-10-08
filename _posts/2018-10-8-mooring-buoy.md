@@ -6,7 +6,7 @@ permalink: /mooring-buoy.html
 categories: journal
 ---
 
-<img src="https://imgur.com/a/nee6eMl" class="img-responsive post-feat-img" />
+<img src="https://i.imgur.com/wfVBEDu.jpg" class="img-responsive post-feat-img" />
 
 Do you ever recognize that the existence of our coral reefs in Indonesia is getting decreased and damaged? Not only the coral reefs, the marine life like fish and its surroundings are also threatened. This matter is caused by ships that often park and throw anchors carelessly, so now there is *Mooring Buoy* provided to anticipate it. *Mooring Buoy* is basically a floating mooring that is used for mooring ships and as a sign or mark to drop the anchors. Therefore, the *Mooring Buoy* holds the ship from shifting due to waves, currents or wind. It has the heaviest weight than other types of buoy.
 
