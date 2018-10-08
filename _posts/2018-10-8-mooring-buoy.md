@@ -20,3 +20,5 @@ Related to the concern and willingness to develop *Mooring Buoy*, there is a com
 So that the *Mooring Buoy* can continue to function optimally, proper maintenance needs to be done. Every once in 4 months, regular checks must be carried out to determine the conditions of buoy, ropes, chains and anchors. *Mooring Buoy* has a manhole to check regularly to ensure that there is no leakage and the buoy condition remains excellent. Besides, the ability of each mooring must be recorded, and do an update to know the latest depth and GPS position of each mooring. The users of *Mooring Buoy* can also participate in preserve it, by cleaning the rope from moss or helping to replace or install the *Mooring Buoy*.
 
 By getting to know more about *Mooring Buoy*, it is expected that our level of awareness of its importance will increase. If we don’t help in improving the *Mooring Buoy*, who else will preserve the beauty of our country’s underwater? So, let’s start the movement now!
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi%20E-Nyelam,%20i%20need%20info%20for%20dive%20spot" class="cta--in--page">Need a dose of adventure? Chat with us</a>
