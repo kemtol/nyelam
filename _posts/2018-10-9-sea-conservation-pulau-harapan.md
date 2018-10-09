@@ -1,3 +1,13 @@
+---
+layout: post
+title: Sea Conservation in Pulau Harapan
+author: Calista Tambunan
+permalink: /sea-conservation-pulau-harapan.html
+categories: journal
+---
+
+https://i.imgur.com/eaJjets.jpg
+
 It is commonly known that 70 percent of the earth we live in consists mostly of territorial waters. As the largest ecosystem on Earth, ocean takes a very important role in maintaining the survival of living things. It absorbs carbon dioxide around 30-50%; can be an alternative transportation lines besides air and land; for recreation spot and water sport; good and healthy food sources such as fish, mussels, and seaweed; source of minerals and petroleum, and other benefits. Unfortunately, the sea began to be polluted and exploited by humans nowadays, threatening its existence. To avoid it is getting worse and preserve it, a sea conservation is very needed. Sea conservation is a protection of marine and marine ecosystems themselves throughout the world to prevent those from exploitation. It can also reduce human activities that have damaging effects on the sea. 
 Pulau Harapan as one of the islands frequently visited by tourists in Kepulauan Seribu also has its own marine protected area. The sea conservation in this island is run and managed by Marine Conservation Center in Kepulauan Seribu. Here are some of the sea conservation forms in Pulau Harapan:
 ## Marine Biota Park
