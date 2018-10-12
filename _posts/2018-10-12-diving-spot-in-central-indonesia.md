@@ -1,6 +1,15 @@
-Top 3 Recommended Dive Spots in Central Indonesia
+---
+layout : post
+title : Top 3 Recommended Dive Spots in Central Jakarta
+author : Calista Tambunan
+permalink : /diving-spot-in-central-indonesia.html
+categories : journal 
+---
 
-	Our country, the Unitary Republic of Indonesia, is divided into 3 time zones because it is one of the largest countries in the world. With an area of 1.9 million km2, the three time zones are West Indonesia Time (WIB), Central Indonesia Time (WITA), and East Indonesia Time (WIT). Each time zone has its own natural beauty area and there are many dive spots that can't be missed, because Indonesia is also an archipelago. This time we're going to discuss about Central Indonesia which includes the provinces of Kalimantan, Bali, Nusa Tenggara, Sulawesi and Gorontalo. So, below are the beautiful dive spots which not many people know yet:
+<img src="https://i.imgur.com/9RhRo9q.jpg" class="img-responsive post-feat-img" />
+
+Our country, the Unitary Republic of Indonesia, is divided into 3 time zones because it is one of the largest countries in the world. With an area of 1.9 million km2, the three time zones are West Indonesia Time (WIB), Central Indonesia Time (WITA), and East Indonesia Time (WIT). Each time zone has its own natural beauty area and there are many dive spots that can't be missed, because Indonesia is also an archipelago. This time we're going to discuss about Central Indonesia which includes the provinces of Kalimantan, Bali, Nusa Tenggara, Sulawesi and Gorontalo. So, below are the beautiful dive spots which not many people know yet:
+
 ## Pulau Derawan (Kalimantan)
 This island is a famous paradise located in Kalimantan, with the beautiful scene and coral reefs that can be seen clearly from the surface of the water. Access to Derawan Island can be reached by plane to Balikpapan. Then, the trip can continue through Berau or Tarakan. From Berau, you can go to Tanjung Batu by car or taxi. After that, from Tanjung Batu there is a small speedboat with a distance to the island of Derawan about 45 minutes and costs Rp 50.000,00.
 ### Pulau Sangalaki
@@ -22,4 +31,4 @@ It is the largest and most popular island in Pulau Gili, crowded with tourists e
 ### Gili Meno
 As the smallest and most peaceful island among the others, Gili Meno is suitable for divers who are looking for a quiet atmosphere. We recommend you Gili Meno Wall as a diving spot, which offers an interesting sightseeing of sea turtle. A mix of coral rubble and branching corals at around 5 meters are worth to see in Gili Meno Wall. 
 
-There are still plenty other spots, but here are some of the best sites for having an unforgettable diving experience. With these paradise dive spots, you can start considering Central Indonesia as your next stop for diving. Let’s be proud of our beautiful country and preserve it!
+There are still plenty other spots, but here are some of the best sites for having an unforgettable diving experience. With these paradise dive spots, you can start considering Central Indonesia as your next stop for diving. Besides diving, Central Indonesia has a lot of nature activities and its own beautiful flora and fauna. Let’s be proud of our beautiful country and preserve it!
