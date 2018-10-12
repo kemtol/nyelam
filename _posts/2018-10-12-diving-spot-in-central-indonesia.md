@@ -32,3 +32,5 @@ It is the largest and most popular island in Pulau Gili, crowded with tourists e
 As the smallest and most peaceful island among the others, Gili Meno is suitable for divers who are looking for a quiet atmosphere. We recommend you Gili Meno Wall as a diving spot, which offers an interesting sightseeing of sea turtle. A mix of coral rubble and branching corals at around 5 meters are worth to see in Gili Meno Wall. 
 
 There are still plenty other spots, but here are some of the best sites for having an unforgettable diving experience. With these paradise dive spots, you can start considering Central Indonesia as your next stop for diving. Besides diving, Central Indonesia has a lot of nature activities and its own beautiful flora and fauna. Let’s be proud of our beautiful country and preserve it!
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi%20E-Nyelam,%20i%20need%20info%20for%20dive%20spot" class="cta--in--page">Need to get there? Chat with us</a>
