@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Top 3 Recommended Dive Spots in Central Jakarta
+title : Top 3 Recommended Dive Spots in Central Indonesia
 author : Calista Tambunan
 permalink : /diving-spot-in-central-indonesia.html
 categories : journal 
