@@ -6,7 +6,7 @@ permalink : /diving-spot-in-eastern-indonesia.html
 categories : journal
 ---
 
-<img src="https://i.imgur.com/YLdgzn6.jpg" class="img-responsive post-feat-img" />
+<img src="https://i.imgur.com/uucUSgn.jpg" class="img-responsive post-feat-img" />
 
 Need inspiration for your vacation? Prepare yourself, because eastern Indonesia has many spots to offer. The popular site that most people know when it comes to eastern Indonesia is Raja Ampat, Nusa Tenggara, and Maluku, which entered the standard area of WIT time. But, eastern Indonesia still has many places for you, including dive sites for divers lovers.
 
