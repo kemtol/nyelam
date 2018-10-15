@@ -24,7 +24,7 @@ The fact that this island is remote and far from urban, makes it a virgin island
 ### Pulau Batudaka
 With the meaning of the name is a large stone, it is the largest and most accessible island in Togean. The marine life can be seen effortlessly because the water is very transparent with a sparkling white sand along the beach. Pulau Batudaka is also famous with its mangrove forest that is attractive. 
 
-## Pulau Gili
+## Pulau Gili (Lombok)
 Located in Lombok, Pulau Gili is a paradise for local and foreign divers because of the beautiful panorama and underwater biota. It consists of 3 small islands which are Gili Air, Gili Meno, and Gili Trawangan, but the famous islands for diving are only Gili Trawangan and Gili Meno. To reach the island, you can use a fast boat from Padangbai Port in Bali with 1,5 hours trip and costs above Rp 500.000,00. For more affordable trip, you can go through Pulau Lombok by plane and go to Teluk Nara by ship. Then, from Teluk Nara there is a speedboat directly to Pulau Gili.
 ### Gili Trawangan 
 It is the largest and most popular island in Pulau Gili, crowded with tourists especially from abroad. When you’re here to dive, shark point is a must with various types of sharks such as White and Black Tip Reef Sharks. Green Sea Turtles, Anemone Fish, Ribbon Eels, Octopus, and Scorpionfish are easy to find too there. 
