@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Snorkeling in Indonesia Must Be One of Your Bucket List?
+title: Why Snorkeling in Indonesia Must Be One of Your Bucket List and Where You Should be Go?
 permalink: /best-spot-to-snorkeling-in-indonesia.html
 author: Calista Tambunan
 categories: journal
@@ -8,7 +8,7 @@ categories: journal
 
 <img src="https://i.imgur.com/vLDUFiD.jpg" class="post-feat-img img-responsive" />
 
-Indonesia is well-known for its beautiful nature with more than 17.000 islands between Asia and the Pacific Ocean. With other words, it is Earth's largest archipelago. It is best to visit Indonesia for snorkeling between May and October in the dry season. Most tourists have known Bali as the most popular snorkeling destination in Indonesia, but our country has more than that. Indonesia has other destinations which are as amazing as Bali or even more marvelous.
+Indonesia is well-known for its beautiful nature with more than 17.000 islands between Asia and the Pacific Ocean. With other words, it is Earth's largest archipelago. Most tourists have known Bali as the most popular snorkeling destination in Indonesia, but it has more than that. Indonesia has other destinations that are as amazing as Bali or even more marvelous. This is because there are plenty of islands, so many hidden islands in Indonesia which can be said as heaven for divers. The underwater beauty here is also helped by a variety of unique and complete marine biota which you certainly can't find elsewhere. Moreover, some of the snorkeling spots are well-known with the magnificent coral reefs and shipwrecks, make them as high tourist amount destinations. Other than that, local people in Indonesia are famous for their hospitality and of course they do not hesitate to help you.
 
 ## The most famous one is
 
