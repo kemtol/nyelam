@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: static
 title: Privacy Policy
 permalink: /privacy-policy.html
 ---
