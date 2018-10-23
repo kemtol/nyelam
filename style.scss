@@ -1240,6 +1240,19 @@ article.post{
 	content:"\27f6";
 }
 
+
+/* static page */
+#static{
+	padding:3rem 0px;
+	h1,h2,h3,h4,p{
+		margin-bottom:5rem;
+	}
+	h1{font-size:32px;}
+	h2{font-size:24px;}
+	h3{font-size:18px;}
+}
+
+
 /*Coustom Media Query CSS*/
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
