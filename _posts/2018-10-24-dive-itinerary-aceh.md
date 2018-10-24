@@ -50,3 +50,5 @@ Located in the edge of the forest with steep sunken cliffs that separate  it fro
 1. You can prepare your budget for the trip. Itinerary helps you predict how much expenses and cost it will be.
 2. Helps you prioritize in determining destinations you want to visit. You won't missed destinations you want to visit the most if you have an itinerary.
 3. Besides destinations, it will maximize your time in searching for transportations and accommodations. So, your time will be more efficient and effective. 
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi%20E-Nyelam,%20i%20need%20info%20for%20dive%20spot" class="cta--in--page">Need a dose of adventure? Chat with us</a>
