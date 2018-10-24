@@ -15,9 +15,9 @@ How to  get to Pulau Weh?
 Luckily, the  access to Sabang is not that hard like most of the islands in Indonesia, it has  several choices of transportations with affordable prices. You can take a  flight to Sultan Iskandar Muda International airport in Aceh, the range of the  ticket price is Rp 600.000,00 if it is not during the holiday season. The other  option is going to Kuala Namu International Airport in Medan by plane, then you  can take a bus to Banda Aceh with bus for 12 hours and it only cost Rp 200.000,00.  After that, you should go to Ulee Lheue port with 4 access choices: taxi, damri  bus, rickshaw motorcycle, and labi labi (typical vehicle from Aceh). From Ulee  Lheue port, there are 2 alternatives to Pulau Weh, with slow or fast ferry. The  slow ferry can take time for 2 hours with price Rp 25.000,00 while the fast  ferry costs Rp 85.000,00 for only 45 minutes of journey.
 
 The Trusted Dive Centers:
-Rubiah Tirta Divers
+1. Rubiah Tirta Divers
 As the first dive center in Pulau Weh, their experience in the world of diving is plenty. The dive center has found all the beautiful dive spots in Pulau Weh, and they offer diving course, daily dive, also dive trip. Located in Boih Beach, you can contact 082360002100 for further information and reservation.
-Iboih Dive Center
+2. Iboih Dive Center
 Famous with the professional and friendly staffs, they combine a new experience of diving with high quality diving equipment, cylinders and Bauer compressor. The dive center also has PADI dive courses, and knows very well all of the dive spots in Pulau Weh. For reservation, you can whatsapp +6282161046111 or email iboihdivecentre@gmail.com.
 
 Here are  the Dive Spots and Schedule…
@@ -45,6 +45,6 @@ The resort offers a breathtaking view as the bungalows face directly to  the isl
 Located in the edge of the forest with steep sunken cliffs that separate  it from the sea, Iboih Inn has that beautiful clear sea water view. You really  can feel the atmosphere of the beach because the bungalows are located on the  seafront. Because of that, it is practical to dive or snorkeling just in front  of the bungalows. The room rate starts from Rp 470.000,00 and it is better if  you book via email iboih.inn@gmail.com.
 
 Why Itinerary is a Must?
-You can prepare your budget for the trip. Itinerary helps you predict how much expenses and cost it will be.
-Helps you prioritize in determining destinations you want to visit. You won't missed destinations you want to visit the most if you have an itinerary.
-Besides destinations, it will maximize your time in searching for transportations and accommodations. So, your time will be more efficient and effective. 
+1. You can prepare your budget for the trip. Itinerary helps you predict how much expenses and cost it will be.
+2. Helps you prioritize in determining destinations you want to visit. You won't missed destinations you want to visit the most if you have an itinerary.
+3. Besides destinations, it will maximize your time in searching for transportations and accommodations. So, your time will be more efficient and effective. 
