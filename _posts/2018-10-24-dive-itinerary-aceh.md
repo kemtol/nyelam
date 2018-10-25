@@ -6,7 +6,7 @@ permalink : /dive-itinerary-aceh.html
 categories : journal 
 ---
 
-<img src="https://i.imgur.com/iOtP46v.jpg" class="img-responsive post-feat-img" />
+<img src="https://i.imgur.com/pmo4Ole.jpg" class="img-responsive post-feat-img" />
 
 Aceh may not be too highlighted or known in the world of  diving, but don't get it wrong -- its natural beauty no need to be doubted,  especially if you get to know Sabang or in other name: Pulau Weh. It has 5 sub  islands, which are the Pulau Weh itself, Klah, Seulako, Rubiah, and Pulau  Rondo. The unique fact is these islands are the only ones in Indonesia that produce  Geothermal energy. There are a lot of outstanding dive spots in Pulau Weh that  can be your bucket list, such as Batee Tokong, Sophie Rickmers Wreck, The  Canyon, Shark Plateau, and many more. All the total 20 dive spots are almost  100% still natural without human intervention, with various marine biota not  less than 100 types. Planning to try a different diving experience  there? Here we will explain the itinerary for a vacation in Aceh!
 
