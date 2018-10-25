@@ -15,6 +15,7 @@ Using liveaboard as transportation makes it ideal for exploring Nusa Tenggara, t
 
 ### Itinerary Lombok and Gili Island :
 This itinerary go along around 8 days and suitable for all level divers :
+
 **Day 1** : Arriving in the Gili Islands, the easiest way to get to Gili is by fast boat from Sanur. If you use a Gili operator they will pick you up. The recommended operators on Gili are, Blue Marlin establishes diving centers in Trawangan and Meno, provides courses, equipment rentals, technology and fun dives available.
 
 **Day 2** : Dive all day around Gili Island, like Gili Trawangan Shark Point, this place hosts a large number of living creatures, sharks, turtles, and some schooling fish. As you walk along the reef there is a shallow reef illuminated by a small school of electric blue and yellow damselfish
