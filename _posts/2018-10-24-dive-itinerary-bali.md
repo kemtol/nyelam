@@ -15,7 +15,9 @@ Bali is an island with the diving regions are spread out and range from the most
 
 ### Recomended Operators :
 **1. Bali Scuba** : Organized and professional, full range of courses from childern to professionals, daily fun diving trips.
+
 **2. Crystal Diver** : Located in Sanur, aims to serve you with the experience and service of high-level customers, guaranteed to be supervised and trained by certified PADI Divemasters, PADI Instructors.
+
 **3. Blue Season Bali** : Our highly trained and experienced dive team is here to ensure that you get the best diving experience in Bali, friendly and professional.
 
 ## Itinerary : Wrecks, Reefs, Critter and Walls
