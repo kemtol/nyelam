@@ -6,7 +6,7 @@ permalink : /list-when-in-nusa-tenggara.html
 categories : journal
 ---
 
-<img src="https://i.imgur.com/pmo4Ole.jpg" class="img-responsive post-feat-img" />
+<img src="https://i.imgur.com/dOwQoOC.jpg" class="img-responsive post-feat-img" />
 
 Nusa Tenggara is extraordinary, stretching from Lombok in west Timor in the east. It covers hundreds of small islands, the Nusa Tenggara region is characterized by many small islands that are often divided by the deep sea. If you have a plan to go to Nusa Tenggara it will be easier if stay one night in Bali, and using a boat or ferry to continue the journey to Lombok.
 
