@@ -23,3 +23,5 @@ The term of school of fish is intended for a group of fish that is swimming with
 If you like adrenaline, you can try to be casted by the ocean’s current where you can ride it and feel like flying. Palau’s Ulong Channel, Cozumel’s Santa Rosa Wall and the Bahamas’ Washing Machine are some dive sites with strong currents to try. Swim into the depths of a blue hole can be another alternative, where huge sinkholes or caverns frequently set in open water.
 
 Other than those mentioned above, there are more fun and challenging activities you can do while diving or snorkeling, especially if you have the diving license. Of course, this will be a relaxing and refreshing thing to do that can’t be experienced every day. Ready to discover more interesting things underwater and experience it yourself?
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi%20E-Nyelam,%20i%20need%20info%20for%20dive%20spot" class="cta--in--page">Need a dose of adventure? Chat with us</a>
