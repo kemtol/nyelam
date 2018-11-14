@@ -6,8 +6,11 @@ permalink: /interesting-things-diving-snorkeling.html
 categories: journal
 ---
 
+<img src="https://i.imgur.com/fh8xg9O.jpg" class="img-responsive post-feat-img" />
+
 Nowadays, the enthusiastic of water sports like diving or snorkeling is increased among the society. This may be due to the level of stress that is rising with the work and atmosphere of the city, so people absolutely need to escape to nature as a solution to relieve the stress. If you want to get a satisfying experience in diving, it is advised to get a diving license from professional dive center. With a diving license, you will already be an expert in swimming underwater, so you can explore it freer and safer. Therefore, we can guarantee that you will find out amazing things while diving or snorkeling!
-	Down the sea, not only fish or reefs that will accompany your diving, but there are more incredible stuffs and experiences await:
+
+Down the sea, not only fish or reefs that will accompany your diving, but there are more incredible stuffs and experiences await:
 ## Sightsee a shipwreck
 Since the World War II, a lot of shipwrecks left under the sea in various places. Then this is used as an attraction and dive spots for divers all over the world, as it is fascinating to learn the history. The wrecks have also become an artificial reef that is a home for several kinds of marine biota, which provoke the divers to come over. This exploring activity can be a new challenge and thrill for divers too. Some of the famous spots for wreck diving are The Yongala (Australia), USAT Liberty (Indonesia), and Blockship Tabarka (Scotland).
 ## Can be as close as possible to sharks
@@ -19,4 +22,4 @@ The term of school of fish is intended for a group of fish that is swimming with
 ## A thrill rides 
 If you like adrenaline, you can try to be casted by the ocean’s current where you can ride it and feel like flying. Palau’s Ulong Channel, Cozumel’s Santa Rosa Wall and the Bahamas’ Washing Machine are some dive sites with strong currents to try. Swim into the depths of a blue hole can be another alternative, where huge sinkholes or caverns frequently set in open water.
 
-	Other than those mentioned above, there are more fun and challenging activities you can do while diving or snorkeling, especially if you have the diving license. Of course, this will be a relaxing and refreshing thing to do that can’t be experienced every day. Ready to discover more interesting things underwater and experience it yourself?
+Other than those mentioned above, there are more fun and challenging activities you can do while diving or snorkeling, especially if you have the diving license. Of course, this will be a relaxing and refreshing thing to do that can’t be experienced every day. Ready to discover more interesting things underwater and experience it yourself?
