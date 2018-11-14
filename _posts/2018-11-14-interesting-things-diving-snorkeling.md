@@ -1,3 +1,11 @@
+---
+layout: post
+title: Interesting Things You Will Discover When Diving or Snorkeling
+author: Calista Tambunan
+permalink: /interesting-things-diving-snorkeling.html
+categories: journal
+---
+
 Nowadays, the enthusiastic of water sports like diving or snorkeling is increased among the society. This may be due to the level of stress that is rising with the work and atmosphere of the city, so people absolutely need to escape to nature as a solution to relieve the stress. If you want to get a satisfying experience in diving, it is advised to get a diving license from professional dive center. With a diving license, you will already be an expert in swimming underwater, so you can explore it freer and safer. Therefore, we can guarantee that you will find out amazing things while diving or snorkeling!
 	Down the sea, not only fish or reefs that will accompany your diving, but there are more incredible stuffs and experiences await:
 ## Sightsee a shipwreck
