@@ -1,3 +1,13 @@
+---
+layout : post
+title : Why We Should Do Diving or Snorkeling?
+author : Adam Rais
+permalink : /why-diving-or-snorkeling.html
+categories : journal 
+---
+
+<img src="https://i.imgur.com/UCUjdAk.jpg" class="img-responsive post-feat-img" />
+
 A lot of people who doesn’t familiar with diving has the same question. But to answer it is very easy.
 There are many reasons what should do on diving or snorkeling. But some people might not into water
 adventure or even they were actually loved it, but haven’t tried to do it yet. Here are the reasons that
