@@ -31,6 +31,7 @@ Muck dive sites often have large sand fillings, often rich volcanic black sand, 
 
 ## What can be found while scuba or snorkeling in Indonesia
 The underwater scenery is enchanting with the unique underwater biota with lots of areas in the archipelago's. No wonder if the Indonesian ocean is a tourist destination for divers from all over the world, and is the object of research that has never been deserted by the attention of world-class researchers. Besides, we have **fact about Indonesia reefs which is :**
+
 1 .Indoneisan reefs boast over 500 species of corals, 10.000 species of inverterbrates and sea plants and over 3.000 species of fish. The number of shark species in Indonesia is the largest in the world, around 150 species.
 
 2. The sea of Indonesia is an important habitat for world marine mammals. Of the 87 species of marine mammals in the world, there are 32 types of marine mammals from dolphin groups and whales (including blue whales, which are endangered) that can be found in Indonesia.
