@@ -30,7 +30,7 @@ In every ocean any country there must be a shipwreck that used to be one part of
 Muck dive sites often have large sand fillings, often rich volcanic black sand, with small patches of life here and there. But this patch is rich in creatures, such as seahorses, frogfish, and squid. In the sand people can often find gobi fish, mantis shrimp, octopus and more.
 
 ## What can be found while scuba or snorkeling in Indonesia
-The underwater scenery is enchanting with the unique underwater biota with lots of areas in the archipelago's. No wonder if the Indonesian ocean is a tourist destination for divers from all over the world, and is the object of research that has never been deserted by the attention of world-class researchers. Besides, we have **fact about Indonesia reefs which is :**
+The underwater scenery is enchanting with the unique underwater biota with lots of areas in the archipelago's. No wonder if the Indonesian ocean is a tourist destination for divers from all over the world, and is the object of research that has never been deserted by the attention of world-class researchers. Besides, we have fact about Indonesia reefs which is :
 
 1 .Indoneisan reefs boast over 500 species of corals, 10.000 species of inverterbrates and sea plants and over 3.000 species of fish. The number of shark species in Indonesia is the largest in the world, around 150 species.
 
