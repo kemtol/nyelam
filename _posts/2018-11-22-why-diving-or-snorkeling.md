@@ -47,13 +47,16 @@ helps you to improve diving skills, and of course control proper breath when in 
 burn some calories from it as a good cardio exercise. Another reason is that, this shown healing
 effects to most people. It is very beneficial for your skin as well.
 
-7. Get Connected to Nature
+## 7. Get Connected to Nature
 Many friendships have started during fun dive. Wherever you dive, you will always be in a great
 company. Even if you are newbies, you will find yourself surrounded with people who
 experienced and eventually you all share the same passion for the ocean and connected to each
 other. The beauty and uniqueness for all creatures beneath the sea is rock solid. From that, you
 will realize that diving makes you feel connected and equal to the nature.
+
 Diving and snorkeling are parts of the great activity plus positively beneficial to everyone who had
 experienced it. It also taught us to learn what is beneath the ocean, to try something new and learn to
 appreciate the underwater life as well. There are also million reasons to go diving or snorkeling. Look
 up! What reason more convinced you?
+
+<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi%20E-Nyelam,%20i%20need%20info%20for%20dive%20spot" class="cta--in--page">Need a dose of adventure? Chat with us</a>
