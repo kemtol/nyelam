@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Why We Must Do Scbuba Diving or Snorkeling In Indonesia
+title : Why We Must Do Scuba Diving or Snorkeling In Indonesia
 author : Vika Astri
 permalink : /why-must-diving-in-indonesia.html
 ---
