@@ -5,7 +5,7 @@ author : Vika Astri
 permalink : /why-must-diving-in-indonesia.html
 ---
 
-<img src="https://imgur.com/UEtU0FP" class="img-responsive post-feat-img" />
+<img src="https://i.imgur.com/UfzHgXp.jpg" class="img-responsive post-feat-img" />
 
 Indonesia is one of the world's largest islands, and known as the breadth of maritime world also it is the world´s fifteenth biggest country in terms of land area and the seventh largest in terms of land and sea combined, 2/3 of the territory of Republic Indonesia is the sea and the rest is land. It offers various types of sea to be enjoyed with a variety of underwater diversity that can amaze everyone.
 
