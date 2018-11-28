@@ -1,5 +1,5 @@
 ---
-layout: service-page-2
+layout: service-page-journal
 is_deals: true
 title: Indonesia Diving Journal
 permalink: /scuba-diving-indonesia-journal.html
