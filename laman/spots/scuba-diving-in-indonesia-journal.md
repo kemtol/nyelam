@@ -2,7 +2,7 @@
 layout: service-page-journal
 is_deals: true
 title: Indonesia Diving Journal
-permalink: /scuba-diving-indonesia-journal.html
+permalink: /scuba-diving-journal-in-indonesia.html
 call_ajax: services-indonesia.html
 is_directory: true
 ---
