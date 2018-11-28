@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="service-page">  
+  <h1 class="container">{{ page.title }}</h1>
+  <!-- .deals-section -->
+  {% if page.is_directory != true %}
+  <div class="container entry">
+    {{ content }}
+  </div>
+  {% else %}
+    <div id="directory--page" class="container entry">
+      <div class="text-center col-xs-12 col-md-6">
+      {{ content }}
+      </div>
+      <div class="text-center col-xs-12 col-md-6">
+        <h2 id="dive-journal">Dive Journal</h2>
+        <ul>
+        {% for post in site.categories.journal %} 
+          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  {% endif %}
+  <!-- Start .deals-section -->
+  <div class="deals-section" id="service--list">
+  </div>
+</div>
