@@ -15,7 +15,7 @@ snorkel and fins. The difference came to tell that snorkeling involves, of cours
 tube – while diving involves more complicated set of equipment.
 
 ## Meaning of Snorkeling and Diving
-** Diving ** is a form of underwater diving with a few of breathing equipment. ** Snorkeling ** is
+**Diving** is a form of underwater diving with a few of breathing equipment. **Snorkeling** is
 swimming on the underwater with a snorkeling mask. Snorkeling allows you to observe so
 much corals and species beneath the surface of the water. Meanwhile, diving allows you
 only to explore at much greater depths than snorkeling yourself can reach. The purposes of
