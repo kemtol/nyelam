@@ -6,7 +6,7 @@ permalink : /underwater-sports-diving.html
 categories : journal 
 ---
 
-<img src="https://imgur.com/aKg0Q7Q" class="img-responsive post-feat-img" />
+<img src="https://i.imgur.com/077QyEL.jpg" class="img-responsive post-feat-img" />
 
 How much you know about underwater sport? Do you ever heard about that? For some people, they will thought about swimming, water polo, snorkeling etc. At this time, water sports are categorized based on how sports are played in relation to the location of water. But, if you think more about there’s a lot of water sport that we can do and take the benefit. In another case, people should know the difference between these underwater sport :
 
