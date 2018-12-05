@@ -6,7 +6,7 @@ permalink : /things-you-can-do-with-diving-license.html
 categories : journal 
 ---
 
-<img src="https://i.imgur.com/QcCpn0W.jpg="img-responsive post-feat-img" />
+<img src="https://i.imgur.com/QcCpn0W.jpg" class="img-responsive post-feat-img" />
 
 Nowadays, underwater sports attract the attention of people with the charm of the underwater visual beauty and also on stunning views on the land. Especially, in this sophisticated era, our natural beauty is exposed in everything we do. Indonesia has many places to go to do the underwater sports, including scuba diving and snorkeling. Both activities are currently highly targeted by people especially for divers, all level divers. Before that, you must certified yourself to be scuba diver certified, you can get a license when you are register yourself to a institution issuing diving license ( PADI, SSI, NAUI,etc ) that located in many cities, such as Bali, Java, Maluku, etc. 
 
