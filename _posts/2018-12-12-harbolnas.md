@@ -5,6 +5,15 @@ permalink: /terms-and-conditions-harbolnas.html
 categories: journal
 ---
 
+<style>
+  ol li{
+    font-size: 18px;
+    line-height: 1.66em;
+    font-weight: 300;
+    letter-spacing: 0.05em;
+  }
+</style>
+
 <img src="https://i.imgur.com/xsBdubS.png" class="img-responsive post-feat-img" />
 
 ## Save your money! Discount up to 50 percent or max. IDR 1 million for Do All Dive services!
