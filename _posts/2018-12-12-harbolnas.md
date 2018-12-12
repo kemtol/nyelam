@@ -7,7 +7,7 @@ categories: journal
 
 <img src="https://i.imgur.com/xsBdubS.png" class="img-responsive post-feat-img" />
 
-Save your money! Discount up to 50 percent or max. IDR 1 million for Do All Dive services!
+## Save your money! Discount up to 50 percent or max. IDR 1 million for Do All Dive services!
 
 ### 1. The offer is available until 24 December 2018 and booking period until 30 April 2019.
 
