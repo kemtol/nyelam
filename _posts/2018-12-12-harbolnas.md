@@ -6,6 +6,9 @@ categories: journal
 ---
 
 <style>
+  ol{
+    list-position:inside;
+  }
   ol li{
     font-size: 18px;
     line-height: 1.66em;
