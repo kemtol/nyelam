@@ -1,14 +1,14 @@
 ---
 layout : post
-title : Institution Issuing Diving License
+title : Cool Things Can Be Found When Wreck Diving
 author : Vika Astri 
-permalink : /institution-issuing-diving-license.html
+permalink : /cool-things-can-be-found-when-wreck-diving.html
 categories : journal 
 ---
 
 <img src="https://i.imgur.com/ovC0n9g.jpg" class="img-responsive post-feat-img" />
 
-Wreck diving is a recreational diving where divers can dive around other artificial wreck structures that can be explored and this is part of the underwater cultural heritage and may be an important archeological source. Some wreck diving involve penetration of the wreckage, making diving directly to the surface and difficult for beginner divers. Some wrecks can be found when divers have reached a fairly deep depth, but in some places the wreck can be seen from the surface. Shallow wrecks are not recommended, it is better to dive in deeper wrecks due to higher biological activity and much that can be enjoyed and seen. For divers who like historical and diving activities, this dive is highly recommended for you because you can see large structures with many interesting parts and machines, which are usually not well observed, have an interesting and tragic history  also present new challenges for scuba divers. Almost every destination for scuba diving in the world offers several wreckage dive sites. ** Wreck diving have several types, among others : **
+Wreck diving is a recreational diving where divers can dive around other artificial wreck structures that can be explored and this is part of the underwater cultural heritage and may be an important archeological source. Some wreck diving involve penetration of the wreckage, making diving directly to the surface and difficult for beginner divers. Some wrecks can be found when divers have reached a fairly deep depth, but in some places the wreck can be seen from the surface. Shallow wrecks are not recommended, it is better to dive in deeper wrecks due to higher biological activity and much that can be enjoyed and seen. For divers who like historical and diving activities, this dive is highly recommended for you because you can see large structures with many interesting parts and machines, which are usually not well observed, have an interesting and tragic history  also present new challenges for scuba divers. Almost every destination for scuba diving in the world offers several wreckage dive sites. **Wreck diving have several types, among others :**
 
 ### 1. Non - Penetration Diving
 Refers to exploring the outside of the wreck, and that is probably the most common type. Two popular things to see on the wreck site are propellers and boilers, and they make a good subject for photography. Many divers get more pleasure from seeing the beauty of the wreck and the marine life around it as a whole. There is no special training, however, training for wreck diving will give you the skills to help you maximize the pleasure from non-penetrating wreck diving. No matter the type, the wreck diving is always interesting.
