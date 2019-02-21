@@ -8,7 +8,7 @@ categories: journal
 <style>
   ol{
     list-position:inside;
-    
+    padding-left:25px;
   }
   ol li{
     font-size: 18px;
@@ -28,7 +28,7 @@ categories: journal
 
 ## Syarat dan Ketentuan Promo kamar Airy:
 
-<div class="pl-5">
+
   1. The offer is available until 24 December 2018 and booking period until 30 April 2019.
   2. The offer is available for every payment method.
   3. A user will get 50 (fifty) percent or max. IDR 1 million discount for each purchase.
@@ -38,5 +38,5 @@ categories: journal
   7. This offer cannot be combined with any other offer.
   8. The Terms and Conditions of this offer are integral and inseparable part of e-Nyelam Privacy Policy. The company reserves the    right to change these terms and conditions at any time without prior notice.
   9. By joining this offer, the user(s) agree to abide by our terms and conditions.
- </div>
+
 
