@@ -17,7 +17,7 @@ categories: journal
   }
 </style>
 
-<img src="https://i.imgur.com/xsBdubS.png" class="img-responsive post-feat-img" />
+<img width="100%" src="https://i.imgur.com/xsBdubS.png" class="img-responsive post-feat-img" />
 
 ## TESTTT
 
