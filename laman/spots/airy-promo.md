@@ -19,7 +19,13 @@ categories: journal
 
 <img width="100%" src="https://i.imgur.com/xsBdubS.png" class="img-responsive post-feat-img" />
 
-## TESTTT
+## LOREM IPSUM DOLOR SIT AMET
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam facilisis diam vel rutrum varius. Nam ullamcorper leo vestibulum nunc mollis eleifend ac nec tortor. Morbi congue augue leo, sit amet laoreet mi faucibus in. Duis luctus lectus ullamcorper, porttitor massa id, tincidunt risus. Nulla auctor mauris eget lectus semper, nec consequat urna pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec condimentum justo, at ultrices dui. 
+
+  Duis luctus lectus ullamcorper, porttitor massa id, tincidunt risus. Nulla auctor mauris eget lectus semper, nec consequat urna pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec condimentum justo, at ultrices dui.
+
+## Syarat dan Ketentuan Promo kamar Airy:
 
 1. The offer is available until 24 December 2018 and booking period until 30 April 2019.
 2. The offer is available for every payment method.
@@ -30,11 +36,5 @@ categories: journal
 7. This offer cannot be combined with any other offer.
 8. The Terms and Conditions of this offer are integral and inseparable part of e-Nyelam Privacy Policy. The company reserves the  right to change these terms and conditions at any time without prior notice.
 9. By joining this offer, the user(s) agree to abide by our terms and conditions.
-
-<img src="https://i.imgur.com/JqVMMsS.jpg" class="img-responsive post-feat-img" />
-
-<img src="https://i.imgur.com/B1tLJYE.jpg" class="img-responsive post-feat-img" />
-
-<img src="https://i.imgur.com/VobypXW.jpg" class="img-responsive post-feat-img" />
 
 <a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi%20E-Nyelam,%20i%20need%20info%20for%20dive%20spot" class="cta--in--page">Need a dose of adventure? Chat with us</a>
