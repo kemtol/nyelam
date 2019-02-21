@@ -2,7 +2,7 @@
 layout: service-page
 is_deals: true
 title: 6 Best Dive Spot for Scuba Dive in Bali, Indonesia
-permalink: /scuba-diving-bali.html
+permalink: /dive-deals.html
 call_ajax: dive-deals.html
 ---
 
