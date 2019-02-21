@@ -37,4 +37,3 @@ categories: journal
   8. The Terms and Conditions of this offer are integral and inseparable part of e-Nyelam Privacy Policy. The company reserves the    right to change these terms and conditions at any time without prior notice.
   9. By joining this offer, the user(s) agree to abide by our terms and conditions.
 
-<a href="https://web.whatsapp.com/send?phone={{site.wa}}&text=Hi%20E-Nyelam,%20i%20need%20info%20for%20dive%20spot" class="cta--in--page">Need a dose of adventure? Chat with us</a>
