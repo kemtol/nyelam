@@ -6,7 +6,7 @@ permalink: /scuba-diving-bali.html
 call_ajax: services-bali.html
 ---
 
-## Why Scuba Diving in Bali?
+## quack
 
 <img class="img-responsive" src="{{site.url}}/images/spots/diving-in-bali.jpg" />
 
