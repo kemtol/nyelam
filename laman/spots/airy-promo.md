@@ -8,7 +8,7 @@ categories: journal
 <style>
   ol{
     list-position:inside;
-    padding-left:25px;
+    
   }
   ol li{
     font-size: 18px;
