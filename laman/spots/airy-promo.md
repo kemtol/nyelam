@@ -29,8 +29,8 @@ categories: journal
 ## Syarat dan Ketentuan Promo kamar Airy:
 
 
-  1. The offer is available until 24 December 2018 and booking period until 30 April 2019.
-  2. The offer is available for every payment method.
+  1. Periode pemesanan 20 Februari 2019 - 30 April 2019.
+  2. Periode inap 20 Februari - 31 Mei 2019.
   3. A user will get 50 (fifty) percent or max. IDR 1 million discount for each purchase.
   4. Do Dive reservation is available on Android and iOS with no minimum purchase.
   5. No maximum transaction or pax required.
