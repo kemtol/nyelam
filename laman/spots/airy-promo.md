@@ -31,12 +31,13 @@ categories: journal
 
   1. Periode pemesanan 20 Februari 2019 - 30 April 2019.
   2. Periode inap 20 Februari - 31 Mei 2019.
-  3. A user will get 50 (fifty) percent or max. IDR 1 million discount for each purchase.
-  4. Do Dive reservation is available on Android and iOS with no minimum purchase.
-  5. No maximum transaction or pax required.
-  6. The discounted price will be calculated on the checkout page.
-  7. This offer cannot be combined with any other offer.
-  8. The Terms and Conditions of this offer are integral and inseparable part of e-Nyelam Privacy Policy. The company reserves the    right to change these terms and conditions at any time without prior notice.
-  9. By joining this offer, the user(s) agree to abide by our terms and conditions.
+  3. Diskon menginap 15% (lima belas persen) dengan jumlah potongan maksimal sebesar Rp50.000,00 (lima puluh ribu Rupiah) untuk setiap pelanggan E-nyelam yang melakukan pemesanan Do Dive, Do Trip, dan Do Course pada aplikasi E-nyelam selama periode.
+  4. Program Promo tidak termasuk produk Eco Trip.
+  5. Kode Promo (Voucher Code) akan dikirim setelah penyelesaian proses pembayaran produk E-Nyelam melalui email. 
+  6.Kode Promo berlaku untuk pemesanan kamar melalui mobile web dan aplikasi Airy. 
+  7. Promo berlaku untuk semua kamar Airy di seluruh Indonesia. 
+  8. Program ini tidak dapat digabung dengan promo Airy lainnya. 
+  9. Airy berhak untuk membatalkan pemesanan dan/atau penggunaan kode promo apabila terjadi kecurangan, atau tindak pelanggaran atas syarat dan ketentuan lainnya yang berlaku. 
+  10. Pemesanan kamar dengan promo ini bersifat non-refundable, tidak dapat dibatalkan, dan tidak dapat diubah.
 
 
