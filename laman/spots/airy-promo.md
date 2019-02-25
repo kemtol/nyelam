@@ -20,6 +20,8 @@ categories: journal
 
 <img width="100%" src="https://i.imgur.com/HT7ADMx.jpg" class="img-responsive post-feat-img" />
 
+## Main ke bawah laut jadi lebih hemat!
+
   Mau Diving?<br>
   Mau Snorkelling?<br> 
   Pesan Sekarang Yuk!
