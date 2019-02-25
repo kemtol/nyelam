@@ -20,9 +20,9 @@ categories: journal
 
 <img width="100%" src="https://i.imgur.com/HT7ADMx.jpg" class="img-responsive post-feat-img" />
 
-  Mau Diving? 
-  Mau Snorkelling? Pesan 
-  Sekarang Yuk!
+  Mau Diving?<br>
+  Mau Snorkelling?<br> 
+  Pesan Sekarang Yuk!
 
   Dapatkan potongan langsung harga kamar Airy sebesar 15% dengan maksimal diskon kamar IDR 50.000.
 
