@@ -24,7 +24,7 @@ categories: journal
 
   Mau Diving?<br>
   Mau Snorkelling?<br> 
-  Pesan Sekarang Yuk!
+  Pesan Sekarang Yuk!<br>
   Dapatkan potongan langsung harga kamar Airy sebesar 15% dengan maksimal diskon kamar IDR 50.000.
   Bisa eksplorasi bawah laut semakin hemat dengan menginap di Airy.
 
