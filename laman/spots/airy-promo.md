@@ -18,13 +18,13 @@ categories: journal
   }
 </style>
 
-<img width="100%" src="https://i.imgur.com/xsBdubS.png" class="img-responsive post-feat-img" />
+<img width="100%" src="https://imgur.com/a/eKKfeAz" class="img-responsive post-feat-img" />
 
-## LOREM IPSUM DOLOR SIT AMET
+## Mau Diving? Mau Snorkelling? Pesan Sekarang Yuk!
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam facilisis diam vel rutrum varius. Nam ullamcorper leo vestibulum nunc mollis eleifend ac nec tortor. Morbi congue augue leo, sit amet laoreet mi faucibus in. Duis luctus lectus ullamcorper, porttitor massa id, tincidunt risus. Nulla auctor mauris eget lectus semper, nec consequat urna pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec condimentum justo, at ultrices dui. 
+  Dapatkan potongan langsung harga kamar Airy sebesar 15% dengan maksimal diskon kamar IDR 50.000.
 
-  Duis luctus lectus ullamcorper, porttitor massa id, tincidunt risus. Nulla auctor mauris eget lectus semper, nec consequat urna pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec condimentum justo, at ultrices dui.
+  Bisa eksplorasi bawah laut semakin hemat dengan menginap di Airy.
 
 ## Syarat dan Ketentuan Promo kamar Airy:
 
