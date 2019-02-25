@@ -20,14 +20,12 @@ categories: journal
 
 <img width="100%" src="https://i.imgur.com/HT7ADMx.jpg" class="img-responsive post-feat-img" />
 
-## Main ke bawah laut jadi lebih hemat!
+## Main ke Bawah Laut Jadi Lebih Hemat!
 
   Mau Diving?<br>
   Mau Snorkelling?<br> 
   Pesan Sekarang Yuk!
-
   Dapatkan potongan langsung harga kamar Airy sebesar 15% dengan maksimal diskon kamar IDR 50.000.
-
   Bisa eksplorasi bawah laut semakin hemat dengan menginap di Airy.
 
 ## Syarat dan Ketentuan Promo kamar Airy:
