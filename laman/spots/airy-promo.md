@@ -18,7 +18,7 @@ categories: journal
   }
 </style>
 
-<img width="100%" src="https://imgur.com/a/eKKfeAz" class="img-responsive post-feat-img" />
+<img width="100%" src="https://imgur.com/HT7ADMx" class="img-responsive post-feat-img" />
 
 ## Mau Diving? Mau Snorkelling? Pesan Sekarang Yuk!
 
